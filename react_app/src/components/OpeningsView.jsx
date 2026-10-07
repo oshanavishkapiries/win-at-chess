@@ -1,8 +1,10 @@
 import React, { useState, useMemo, useRef } from 'react';
+import { OPENINGS_THEORY } from '../data/openings_theory';
 
 export function OpeningsView({ openings = [], episodes = [], onLaunchGame }) {
   const [searchFilter, setSearchFilter] = useState('');
   const [selectedFamily, setSelectedFamily] = useState(null);
+  const [activeTab, setActiveTab] = useState('games'); // 'games' | 'theory'
   const drawerRef = useRef(null);
 
   const filteredOpenings = useMemo(() => {
@@ -22,11 +24,17 @@ export function OpeningsView({ openings = [], episodes = [], onLaunchGame }) {
     return openings.find((o) => o.family === selectedFamily);
   }, [openings, selectedFamily]);
 
+  const activeTheory = useMemo(() => {
+    if (!selectedFamily) return null;
+    return OPENINGS_THEORY[selectedFamily] || null;
+  }, [selectedFamily]);
+
   const handleSelectFamily = (family) => {
     if (selectedFamily === family) {
       setSelectedFamily(null);
     } else {
       setSelectedFamily(family);
+      setActiveTab('games');
       setTimeout(() => {
         if (drawerRef.current) {
           drawerRef.current.scrollIntoView({ behavior: 'smooth' });
@@ -36,7 +44,6 @@ export function OpeningsView({ openings = [], episodes = [], onLaunchGame }) {
   };
 
   const handlePlayGame = (ref) => {
-    // Find episode index and game index
     const epIdx = ref.ep_num - 1;
     const ep = episodes[epIdx];
     if (ep) {
@@ -53,10 +60,10 @@ export function OpeningsView({ openings = [], episodes = [], onLaunchGame }) {
       <div className="openings-hero-banner">
         <div className="openings-hero-text">
           <h2>
-            <span>♟️</span> Chess Openings Collection
+            <span>♟️</span> Chess Openings Collection & Teacher's Guide
           </h2>
           <p>
-            Explore all 175 games played across 33 episodes, organized into 15 classical and modern opening families.
+            Explore all 175 games across 33 episodes, organized into 15 classical and modern opening families with complete opening theories.
           </p>
         </div>
         <div className="search-box-wrapper">
@@ -92,7 +99,7 @@ export function OpeningsView({ openings = [], episodes = [], onLaunchGame }) {
                 <p className="opening-card-desc">{op.description}</p>
               </div>
               <div className="opening-card-footer">
-                <span>{isSelected ? 'Viewing matches below' : 'Click to view matches'}</span>
+                <span>{isSelected ? 'Viewing details below' : 'Click to view matches & theory'}</span>
                 <span>{isSelected ? '▼' : '➔'}</span>
               </div>
             </div>
@@ -100,7 +107,7 @@ export function OpeningsView({ openings = [], episodes = [], onLaunchGame }) {
         })}
       </div>
 
-      {/* Selected Opening Drawer / Matches Table */}
+      {/* Selected Opening Drawer / Matches & Theory */}
       {activeOpeningObj && (
         <div ref={drawerRef} className="opening-drawer-container">
           <div className="opening-drawer-header">
@@ -111,70 +118,151 @@ export function OpeningsView({ openings = [], episodes = [], onLaunchGame }) {
                 ({activeOpeningObj.total_games} matches)
               </span>
             </h3>
-            <button
-              className="ctrl-btn-sharp"
-              onClick={() => setSelectedFamily(null)}
-              style={{ height: '32px', fontSize: '0.78rem' }}
-            >
-              ✕ Close
-            </button>
+
+            {/* Tab switch inside drawer: Matches vs Theory */}
+            <div style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
+              <div style={{ display: 'flex', background: 'var(--bg-darkest)', borderRadius: '6px', padding: '2px', border: '1px solid var(--border-dark)' }}>
+                <button
+                  className={`lang-toggle-btn ${activeTab === 'games' ? 'active' : ''}`}
+                  onClick={() => setActiveTab('games')}
+                >
+                  ♟️ Matches ({activeOpeningObj.total_games})
+                </button>
+                <button
+                  className={`lang-toggle-btn ${activeTab === 'theory' ? 'active' : ''}`}
+                  onClick={() => setActiveTab('theory')}
+                >
+                  📖 Opening Theory & Guide
+                </button>
+              </div>
+
+              <button
+                className="ctrl-btn-sharp"
+                onClick={() => setSelectedFamily(null)}
+                style={{ height: '32px', fontSize: '0.78rem' }}
+              >
+                ✕ Close
+              </button>
+            </div>
           </div>
 
-          <div className="table-responsive-wrapper">
-            <table className="sharp-table">
-              <thead>
-                <tr>
-                  <th>Episode</th>
-                  <th>Matchup</th>
-                  <th>ECO</th>
-                  <th>Opening Variation</th>
-                  <th>Result</th>
-                  <th>Video Time</th>
-                  <th>Action</th>
-                </tr>
-              </thead>
-              <tbody>
-                {activeOpeningObj.game_refs?.map((ref) => {
-                  const resultColor =
-                    ref.result === '1-0'
-                      ? 'var(--chesscom-green-hover)'
-                      : ref.result === '0-1'
-                      ? 'var(--accent-red)'
-                      : 'var(--text-muted)';
+          {/* TAB 1: Matched Games Table */}
+          {activeTab === 'games' && (
+            <div className="table-responsive-wrapper">
+              <table className="sharp-table">
+                <thead>
+                  <tr>
+                    <th>Episode</th>
+                    <th>Matchup</th>
+                    <th>ECO</th>
+                    <th>Opening Variation</th>
+                    <th>Result</th>
+                    <th>Video Time</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {activeOpeningObj.game_refs?.map((ref) => {
+                    const resultColor =
+                      ref.result === '1-0'
+                        ? 'var(--chesscom-green-hover)'
+                        : ref.result === '0-1'
+                        ? 'var(--accent-red)'
+                        : 'var(--text-muted)';
 
-                  return (
-                    <tr key={ref.id}>
-                      <td>
-                        <strong>Ep {ref.ep_num < 10 ? `0${ref.ep_num}` : ref.ep_num}</strong>
-                      </td>
-                      <td>
-                        <strong style={{ color: '#fff' }}>{ref.white}</strong> vs{' '}
-                        <strong style={{ color: '#fff' }}>{ref.black}</strong>
-                      </td>
-                      <td>
-                        <span className="brand-badge">{ref.eco}</span>
-                      </td>
-                      <td style={{ color: 'var(--text-secondary)' }}>{ref.opening}</td>
-                      <td>
-                        <strong style={{ color: resultColor }}>{ref.result}</strong>
-                      </td>
-                      <td style={{ fontFamily: 'ui-monospace, monospace', fontSize: '0.78rem', color: 'var(--text-muted)' }}>
-                        {ref.timestamp_str}
-                      </td>
-                      <td>
-                        <button
-                          className="btn-play-game-action"
-                          onClick={() => handlePlayGame(ref)}
-                        >
-                          ▶ Play Game
-                        </button>
-                      </td>
-                    </tr>
-                  );
-                })}
-              </tbody>
-            </table>
-          </div>
+                    return (
+                      <tr key={ref.id}>
+                        <td>
+                          <strong>Ep {ref.ep_num < 10 ? `0${ref.ep_num}` : ref.ep_num}</strong>
+                        </td>
+                        <td>
+                          <strong style={{ color: '#fff' }}>{ref.white}</strong> vs{' '}
+                          <strong style={{ color: '#fff' }}>{ref.black}</strong>
+                        </td>
+                        <td>
+                          <span className="brand-badge">{ref.eco}</span>
+                        </td>
+                        <td style={{ color: 'var(--text-secondary)' }}>{ref.opening}</td>
+                        <td>
+                          <strong style={{ color: resultColor }}>{ref.result}</strong>
+                        </td>
+                        <td style={{ fontFamily: 'ui-monospace, monospace', fontSize: '0.78rem', color: 'var(--text-muted)' }}>
+                          {ref.timestamp_str}
+                        </td>
+                        <td>
+                          <button
+                            className="btn-play-game-action"
+                            onClick={() => handlePlayGame(ref)}
+                          >
+                            ▶ Play Game
+                          </button>
+                        </td>
+                      </tr>
+                    );
+                  })}
+                </tbody>
+              </table>
+            </div>
+          )}
+
+          {/* TAB 2: Opening Theory & Teacher's Guide */}
+          {activeTab === 'theory' && activeTheory && (
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '16px', padding: '10px 0' }}>
+              <div style={{ background: 'var(--bg-card)', padding: '16px', borderRadius: '8px', border: '1px solid var(--border-dark)' }}>
+                <h4 style={{ color: 'var(--chesscom-green-hover)', fontSize: '1rem', marginBottom: '8px' }}>
+                  🎯 Core Philosophy & Student Concept
+                </h4>
+                <p style={{ color: 'var(--text-secondary)', lineHeight: 1.6, fontSize: '0.9rem' }}>
+                  {activeTheory.philosophy}
+                </p>
+              </div>
+
+              <div style={{ background: 'var(--bg-card)', padding: '16px', borderRadius: '8px', border: '1px solid var(--border-dark)' }}>
+                <h4 style={{ color: 'var(--accent-gold)', fontSize: '1rem', marginBottom: '12px' }}>
+                  ⚔️ Key Variations & Move Orders
+                </h4>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
+                  {activeTheory.keyLines.map((line, idx) => (
+                    <div key={idx} style={{ borderLeft: '3px solid var(--border-light)', paddingLeft: '12px' }}>
+                      <strong style={{ color: '#fff', fontSize: '0.88rem' }}>{line.name}</strong>
+                      <p style={{ color: 'var(--text-secondary)', fontSize: '0.84rem', marginTop: '2px', lineHeight: 1.45 }}>
+                        {line.desc}
+                      </p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))', gap: '12px' }}>
+                <div style={{ background: 'var(--bg-card)', padding: '14px', borderRadius: '8px', border: '1px solid var(--border-dark)' }}>
+                  <h4 style={{ color: 'var(--chesscom-green-hover)', fontSize: '0.92rem', marginBottom: '6px' }}>
+                    🧱 Pawn Structure & Critical Breaks
+                  </h4>
+                  <p style={{ color: 'var(--text-secondary)', fontSize: '0.84rem', lineHeight: 1.5 }}>
+                    {activeTheory.pawnBreaks}
+                  </p>
+                </div>
+
+                <div style={{ background: 'var(--bg-card)', padding: '14px', borderRadius: '8px', border: '1px solid var(--border-dark)' }}>
+                  <h4 style={{ color: 'var(--accent-red)', fontSize: '0.92rem', marginBottom: '6px' }}>
+                    ⚡ Key Tactical Motifs & Traps
+                  </h4>
+                  <p style={{ color: 'var(--text-secondary)', fontSize: '0.84rem', lineHeight: 1.5 }}>
+                    {activeTheory.tactics}
+                  </p>
+                </div>
+              </div>
+
+              <div style={{ background: '#1e2b18', padding: '16px', borderRadius: '8px', border: '1px solid #3d5e2e' }}>
+                <h4 style={{ color: '#a7f3d0', fontSize: '0.95rem', marginBottom: '6px' }}>
+                  👨‍🏫 Coach's Advice to Student
+                </h4>
+                <p style={{ color: '#d1fae5', fontStyle: 'italic', fontSize: '0.9rem', lineHeight: 1.6 }}>
+                  "{activeTheory.coachTip}"
+                </p>
+              </div>
+            </div>
+          )}
         </div>
       )}
     </div>
