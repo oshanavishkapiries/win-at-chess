@@ -1,0 +1,5102 @@
+{
+  "episode_number": 6,
+  "video_id": "o8YBBRU3DHA",
+  "title": "How To Win At Chess, Episode 6 (Elo 900-1600)",
+  "url": "https://www.youtube.com/watch?v=o8YBBRU3DHA",
+  "duration_seconds": 6839,
+  "is_generated": false,
+  "language": "English",
+  "word_count": 16932,
+  "snippets": [
+    {
+      "text": "welcome back to how to win it chess a series where  i take on my twitch subscribers in 10 minute games",
+      "start": 0.08,
+      "duration": 6.16
+    },
+    {
+      "text": "and i go up the rating ladder walking you through  the opening middle game and end game the next",
+      "start": 6.24,
+      "duration": 5.04
+    },
+    {
+      "text": "three episodes of this series will be sponsored  by surf shark so i'm gonna tell you a little",
+      "start": 11.28,
+      "duration": 5.12
+    },
+    {
+      "text": "bit about them and then we'll get to the content  surf shark is a vpn or a virtual private network",
+      "start": 16.4,
+      "duration": 5.68
+    },
+    {
+      "text": "which allows you to encrypt your connection to the  internet so that you can browse it privately and",
+      "start": 22.08,
+      "duration": 4.16
+    },
+    {
+      "text": "anonymously we edit this part in by the way so i'm  wearing something different sorry a vpn is great",
+      "start": 26.24,
+      "duration": 6.96
+    },
+    {
+      "text": "if you travel for business or pleasure you'll be  able to access certain websites abroad that might",
+      "start": 33.2,
+      "duration": 3.92
+    },
+    {
+      "text": "be restricted otherwise you can also log into  sensitive portals like bank accounts without any",
+      "start": 37.12,
+      "duration": 4.96
+    },
+    {
+      "text": "concern if you're just a regular user at home you  can access certain streaming websites like hulu or",
+      "start": 42.08,
+      "duration": 6.16
+    },
+    {
+      "text": "netflix and get catalogs that are not available  in every single country also using a vpn could",
+      "start": 48.24,
+      "duration": 5.12
+    },
+    {
+      "text": "allow you to avoid ads if you select the right  countries but i probably shouldn't tell you that",
+      "start": 53.36,
+      "duration": 6.32
+    },
+    {
+      "text": "we can just edit this part out and the best  part unlimited devices not three not five not",
+      "start": 59.68,
+      "duration": 5.92
+    },
+    {
+      "text": "ten unlimited something that other vpns cannot  promise you you interested in surf shark take a",
+      "start": 65.6,
+      "duration": 5.44
+    },
+    {
+      "text": "look at the link in the description below use the  promo code gotham and you'll get 83 off and three",
+      "start": 71.04,
+      "duration": 5.44
+    },
+    {
+      "text": "free months that comes out to 2.49 and if you  hate it you got 30 days to get your money back",
+      "start": 76.48,
+      "duration": 6.56
+    },
+    {
+      "text": "let's get back to the video here we  go we have black in the first game",
+      "start": 83.84,
+      "duration": 2.96
+    },
+    {
+      "text": "bobby's rated uh 9 26 plays e4 uh i'm gonna  go with the e6 b6 setup because somebody",
+      "start": 87.44,
+      "duration": 7.04
+    },
+    {
+      "text": "just requested it so e6 b6 is a setup  based opening that you can play against",
+      "start": 94.48,
+      "duration": 4.4
+    },
+    {
+      "text": "anything and the point is that you delay putting  a second pawn into the center your bishop targets",
+      "start": 99.52,
+      "duration": 5.36
+    },
+    {
+      "text": "the center like this you can basically play  this setup against any of white's first moves",
+      "start": 104.88,
+      "duration": 4.16
+    },
+    {
+      "text": "so it doesn't matter if they play king's pawn  queen's pawn both of the queen spawns bishop",
+      "start": 110.8,
+      "duration": 4.8
+    },
+    {
+      "text": "b7 and now the point is with the pressure on  this center if they just develop naturally",
+      "start": 115.6,
+      "duration": 4.08
+    },
+    {
+      "text": "with the two knights your idea is to put the  bishop out on b4 to pressure the knight which",
+      "start": 119.68,
+      "duration": 5.44
+    },
+    {
+      "text": "will ultimately pressure this pawn this is the  only piece protecting the center pawn uh and uh",
+      "start": 125.12,
+      "duration": 4.96
+    },
+    {
+      "text": "that is what you do really depends though we  have to monitor how our opponent develops here",
+      "start": 131.04,
+      "duration": 3.6
+    },
+    {
+      "text": "thing about setup based openings is they look  easy to play but not always the case bishop d3",
+      "start": 134.64,
+      "duration": 4.32
+    },
+    {
+      "text": "is a natural move i continue with bishop before  if a3 i'm more than willing to make this swap",
+      "start": 138.96,
+      "duration": 5.28
+    },
+    {
+      "text": "uh and then we will figure out what to do  the thing is you you don't really want to",
+      "start": 146.16,
+      "duration": 4.24
+    },
+    {
+      "text": "rush with the move knight f6 in a lot of  positions because with the two pawns in",
+      "start": 150.4,
+      "duration": 3.44
+    },
+    {
+      "text": "the center white can go e5 in this case white  cannot do that because this pawn actually hangs",
+      "start": 153.84,
+      "duration": 5.12
+    },
+    {
+      "text": "in a lot of the situations when the  bishop is on f1 it is protected but",
+      "start": 161.28,
+      "duration": 3.76
+    },
+    {
+      "text": "that is like kind of the trick of the long  range here a lot of lower rated players",
+      "start": 165.04,
+      "duration": 3.76
+    },
+    {
+      "text": "will blunder the g2 pawn and get their  rook trapped but still the game goes on",
+      "start": 168.8,
+      "duration": 3.92
+    },
+    {
+      "text": "but bishop d3 is actually a good move  rather than lazily developing the knight",
+      "start": 174.0,
+      "duration": 4.0
+    },
+    {
+      "text": "but knight f6 of course is possible and in a lot  of situations you actually put your knight on e7",
+      "start": 181.76,
+      "duration": 4.32
+    },
+    {
+      "text": "so right now i'm not baited into taking i don't  need to take uh knight e7 uh and then at the same",
+      "start": 186.08,
+      "duration": 6.64
+    },
+    {
+      "text": "time knight f6 is also okay why is this trade  good with a3 well your alternative is to just",
+      "start": 192.72,
+      "duration": 5.76
+    },
+    {
+      "text": "go back because if you go here you get trapped  so there's no reason to waste all this time",
+      "start": 198.48,
+      "duration": 4.64
+    },
+    {
+      "text": "um i think i will just continue my development  with knight e7 i'm going to show you all",
+      "start": 204.8,
+      "duration": 4.56
+    },
+    {
+      "text": "the idea of this it's like when you castle  your knight your pawn and your rook all support",
+      "start": 209.36,
+      "duration": 4.64
+    },
+    {
+      "text": "the advancement of the f pawn which combined  with the bishop moving sorry with the bishop",
+      "start": 214.0,
+      "duration": 4.32
+    },
+    {
+      "text": "standing on b7 the f-pawn moving this is the  way you'll fight for the center uh so if a3",
+      "start": 218.32,
+      "duration": 5.44
+    },
+    {
+      "text": "will make this swap we will castle and we will go  f5 every opening with black has its pros and cons",
+      "start": 223.76,
+      "duration": 5.36
+    },
+    {
+      "text": "the con of this opening is that white has a lot  of space uh and you will need to learn how to how",
+      "start": 229.12,
+      "duration": 5.84
+    },
+    {
+      "text": "to deal with that and not get overwhelmed  by that but with black i mean no opening",
+      "start": 234.96,
+      "duration": 3.12
+    },
+    {
+      "text": "is is perfect uh okay castle in a lot of  situations if white plays this very aggressively",
+      "start": 238.64,
+      "duration": 5.2
+    },
+    {
+      "text": "uh there can also be something on h7 which is a  little bit unpleasant but um c5 in the future yeah",
+      "start": 244.4,
+      "duration": 8.32
+    },
+    {
+      "text": "that's the but you know again that's one of the  positives of this opening is that black can play",
+      "start": 252.72,
+      "duration": 4.16
+    },
+    {
+      "text": "with any of these pawns really uh and and has  a very flexible decision also black can play d6",
+      "start": 256.88,
+      "duration": 6.4
+    },
+    {
+      "text": "and then e5 to try to close the center  so well either this person is alpha zero",
+      "start": 263.28,
+      "duration": 7.04
+    },
+    {
+      "text": "or is just a little bit too brave for their own  good um the general rule of thumb in the modern",
+      "start": 272.08,
+      "duration": 5.84
+    },
+    {
+      "text": "day of chess is that you just play the h pawn  two squares and you hope for the best so either",
+      "start": 277.92,
+      "duration": 4.88
+    },
+    {
+      "text": "this person is lit like literally just an engine  or uh i is i'm not accusing i'm just i'm joking",
+      "start": 282.8,
+      "duration": 7.04
+    },
+    {
+      "text": "because this move doesn't look like it makes  any sense but i guess you know uh we're gonna",
+      "start": 289.84,
+      "duration": 5.6
+    },
+    {
+      "text": "continue with our plan with f5 and we're gonna  hope for the best so um and that's that's that so",
+      "start": 295.44,
+      "duration": 7.52
+    },
+    {
+      "text": "chad how we doing youtube how we doing i decided  that for uh for for these for these episodes",
+      "start": 307.92,
+      "duration": 6.56
+    },
+    {
+      "text": "it's better if just chat makes me laugh and  then we don't encourage any any crazy trolling",
+      "start": 314.48,
+      "duration": 6.56
+    },
+    {
+      "text": "um otherwise it will require stricter moderation  and this is mostly for instructional value",
+      "start": 322.32,
+      "duration": 6.24
+    },
+    {
+      "text": "have i ever played the accelerated dragon i have  finally this trade occurs now big decision what",
+      "start": 330.96,
+      "duration": 4.96
+    },
+    {
+      "text": "do we do with this if anything do we take or do  we push and force the bishop to move backwards",
+      "start": 335.92,
+      "duration": 4.32
+    },
+    {
+      "text": "so on the one hand pushing does force a retreat  and i i like it on the other hand then i kill all",
+      "start": 340.24,
+      "duration": 6.32
+    },
+    {
+      "text": "my pressure on the center my alternative is to  take and then replace the knight on this square",
+      "start": 346.56,
+      "duration": 6.32
+    },
+    {
+      "text": "at the same time i can do nothing but developing  the knight here is another kind of byproduct of",
+      "start": 352.88,
+      "duration": 5.44
+    },
+    {
+      "text": "this opening which is unpleasant my knight will  block my bishop so i'm actually going to take",
+      "start": 358.32,
+      "duration": 4.32
+    },
+    {
+      "text": "i'm going to take because i like to activate  my pieces and take a little bit more space",
+      "start": 363.28,
+      "duration": 4.32
+    },
+    {
+      "text": "long term this pawn on f4 it's not so clear  what it's doing uh because the thing is for",
+      "start": 367.6,
+      "duration": 5.6
+    },
+    {
+      "text": "one move you attack a piece but it's a very  short-sighted plan in my opinion and once the",
+      "start": 373.2,
+      "duration": 5.04
+    },
+    {
+      "text": "bishop just retreats and the queen moves and  if white castles this way which i'm assuming",
+      "start": 378.24,
+      "duration": 4.56
+    },
+    {
+      "text": "will happen considering white already  advanced the pawn on their king side",
+      "start": 382.8,
+      "duration": 3.28
+    },
+    {
+      "text": "this capture on e4 and now again this trait is  fine you might think well d5 is a good move d5 is",
+      "start": 388.32,
+      "duration": 5.44
+    },
+    {
+      "text": "another consideration to just attack the bishop  but then the bishop goes back and what have we",
+      "start": 393.76,
+      "duration": 5.04
+    },
+    {
+      "text": "accomplished very short-sighted move we've blocked  our own bishop so i actually think i will take",
+      "start": 398.8,
+      "duration": 4.4
+    },
+    {
+      "text": "and then i will move my knight into  the middle and now when this knight",
+      "start": 404.88,
+      "duration": 2.32
+    },
+    {
+      "text": "comes out we don't need to worry  about blocking our own bishop",
+      "start": 407.2,
+      "duration": 2.16
+    },
+    {
+      "text": "now the question is where do i put my horsey and  another idea is not go d5 here because again very",
+      "start": 410.56,
+      "duration": 6.48
+    },
+    {
+      "text": "short-sighted the knight just moves out of the way  it hits this and this pawn will just become weak",
+      "start": 417.04,
+      "duration": 4.0
+    },
+    {
+      "text": "we like our structure a bit more flexible  a little bit more back not over extended um",
+      "start": 421.04,
+      "duration": 5.12
+    },
+    {
+      "text": "i guess i'm i don't know it's re i have no idea  which one of these moves is better and again i",
+      "start": 428.56,
+      "duration": 4.48
+    },
+    {
+      "text": "don't even need to play that i can just develop  my knight i don't know see this is a situation in",
+      "start": 433.04,
+      "duration": 6.0
+    },
+    {
+      "text": "a 10 minute game where you don't need to spend  like all your time i also can go here and here",
+      "start": 439.04,
+      "duration": 5.12
+    },
+    {
+      "text": "for example and and route my queen to this side  hitting these two i don't know i'm just gonna",
+      "start": 444.16,
+      "duration": 4.4
+    },
+    {
+      "text": "develop like i said it's it's not a position you  can spend all your time you will never figure out",
+      "start": 448.56,
+      "duration": 4.32
+    },
+    {
+      "text": "the perfect perfect perfect move so we're up  one minute on the clock we're going to try",
+      "start": 453.52,
+      "duration": 6.16
+    },
+    {
+      "text": "to maintain that time advantage as the game is  going on now i anticipate this happening right",
+      "start": 459.68,
+      "duration": 5.36
+    },
+    {
+      "text": "so what if i play the move like  a5 a move like a5 or even b5",
+      "start": 466.48,
+      "duration": 5.12
+    },
+    {
+      "text": "because i'm expecting the queenside castle and  i can play b5 and b4 and then we're gonna kind",
+      "start": 474.88,
+      "duration": 8.72
+    },
+    {
+      "text": "of get get the show oh i didn't even realize  that we weren't playing music sorry twitch",
+      "start": 483.6,
+      "duration": 5.52
+    },
+    {
+      "text": "there's your music you guys get music",
+      "start": 491.36,
+      "duration": 1.52
+    },
+    {
+      "text": "uh my bad i thought it was playing this whole time",
+      "start": 495.2,
+      "duration": 2.16
+    },
+    {
+      "text": "so i'm anticipating that and there it is so uh  b5 it's gonna get exciting this is uh this is",
+      "start": 501.2,
+      "duration": 7.2
+    },
+    {
+      "text": "prime time opposite side castling pawn play here  see anticipated what they were gonna do now we're",
+      "start": 508.4,
+      "duration": 5.76
+    },
+    {
+      "text": "playing b5 before trying to create something  queen d3 not a bad move actually queen d3",
+      "start": 514.16,
+      "duration": 4.24
+    },
+    {
+      "text": "it's a very good move trying to attack my  pawn and maybe knight g5 trying to mate me",
+      "start": 519.6,
+      "duration": 3.76
+    },
+    {
+      "text": "okay i'm thinking rook behind the pawns  i'm also thinking just run straight through",
+      "start": 524.8,
+      "duration": 5.2
+    },
+    {
+      "text": "knight g5 is a very annoying looking move actually",
+      "start": 531.92,
+      "duration": 2.64
+    },
+    {
+      "text": "knight g5 g6 there's also  this if knight g5 knight f5",
+      "start": 540.88,
+      "duration": 3.76
+    },
+    {
+      "text": "oops knight g5 knight f5 there could be this move",
+      "start": 545.76,
+      "duration": 2.72
+    },
+    {
+      "text": "queen d3",
+      "start": 551.52,
+      "duration": 1.04
+    },
+    {
+      "text": "okay",
+      "start": 557.84,
+      "duration": 4.0
+    },
+    {
+      "text": "uh let's go rook b8 let's go to b8  maybe i could have sacrificed this pawn",
+      "start": 566.96,
+      "duration": 6.32
+    },
+    {
+      "text": "maybe i could have just went here  preventing this move entirely",
+      "start": 574.08,
+      "duration": 2.8
+    },
+    {
+      "text": "and then but i don't know we'll  see we'll see if first of all if",
+      "start": 579.04,
+      "duration": 5.6
+    },
+    {
+      "text": "my opponent plays that i mean i i don't  know if they will but maybe they will",
+      "start": 584.64,
+      "duration": 5.2
+    },
+    {
+      "text": "maybe don't know so far we're just thinking  i'm i i do believe that this is the best move",
+      "start": 592.72,
+      "duration": 18.56
+    },
+    {
+      "text": "rook h3 what this it's a strange move",
+      "start": 613.84,
+      "duration": 7.76
+    },
+    {
+      "text": "rook h3 is a is a is a i don't think that's a very  good move i think i think knight g5 was stronger",
+      "start": 623.92,
+      "duration": 5.6
+    },
+    {
+      "text": "knight g5 is not a maiden two no no no it's  not a maiden two because i would block it",
+      "start": 631.44,
+      "duration": 6.0
+    },
+    {
+      "text": "well i mean i think i should go night here i think  i think this move is by far the most flexible",
+      "start": 640.0,
+      "duration": 6.24
+    },
+    {
+      "text": "and then um i appreciate the donation i said in my  first year tournament in years i beat a 1280 i be",
+      "start": 652.0,
+      "duration": 6.0
+    },
+    {
+      "text": "i almost beat in 1900 but i lost and you're over  you almost beat a 1900 and your over-the-board",
+      "start": 658.0,
+      "duration": 4.48
+    },
+    {
+      "text": "rating is 690. wow okay that is extremely  impressive congratulations very very nice",
+      "start": 662.48,
+      "duration": 9.92
+    },
+    {
+      "text": "i mean i don't think you're 600 i think that's  just the old rating but you should just make a new",
+      "start": 672.4,
+      "duration": 6.16
+    },
+    {
+      "text": "just make a new thing just make it like a new  just sign up for a new you know with a new d5",
+      "start": 683.2,
+      "duration": 7.12
+    },
+    {
+      "text": "okay what if i play knight e5 see if i take he  takes with check and then if i i mean you can",
+      "start": 697.12,
+      "duration": 7.28
+    },
+    {
+      "text": "you really shouldn't block a check with a rook if  it can be attacked because then there is knight g5",
+      "start": 704.4,
+      "duration": 6.48
+    },
+    {
+      "text": "so this is a last resort a lot of people  snap take don't snap take go knight e5",
+      "start": 711.68,
+      "duration": 5.04
+    },
+    {
+      "text": "don't snap take",
+      "start": 723.44,
+      "duration": 1.04
+    },
+    {
+      "text": "a lot of people with snap take i don't like  snap taking and just for the record i could have",
+      "start": 727.04,
+      "duration": 7.28
+    },
+    {
+      "text": "taken take king h8 but i still don't want  to activate the queen i prefer to go here um",
+      "start": 735.36,
+      "duration": 9.68
+    },
+    {
+      "text": "although now that i'm looking at it",
+      "start": 748.56,
+      "duration": 1.68
+    },
+    {
+      "text": "now that i'm looking at it there is a move here  that i that i find extremely unpleasant for myself",
+      "start": 754.64,
+      "duration": 4.08
+    },
+    {
+      "text": "and that is the move",
+      "start": 765.44,
+      "duration": 0.96
+    },
+    {
+      "text": "well the point is that now my knight is under  attack and the rook has opened up to my queen",
+      "start": 768.8,
+      "duration": 5.68
+    },
+    {
+      "text": "so there are two threats the first  threat is to take the knight for free",
+      "start": 775.92,
+      "duration": 3.68
+    },
+    {
+      "text": "the second threat is to take  the pawn opening up this",
+      "start": 779.6,
+      "duration": 2.64
+    },
+    {
+      "text": "i think this is a very well trained  very well educated 900 rated player",
+      "start": 784.4,
+      "duration": 4.48
+    },
+    {
+      "text": "hmm very strong 900",
+      "start": 792.24,
+      "duration": 3.04
+    },
+    {
+      "text": "queen f6 is a very good move",
+      "start": 797.84,
+      "duration": 2.0
+    },
+    {
+      "text": "uh queen f6 is a very good move  if you want to lose a queen",
+      "start": 803.52,
+      "duration": 10.32
+    },
+    {
+      "text": "so i'm thinking i go d6 take",
+      "start": 825.12,
+      "duration": 4.56
+    },
+    {
+      "text": "okay so i'm setting a trap",
+      "start": 833.68,
+      "duration": 2.56
+    },
+    {
+      "text": "a hundred percent that's the best move a hundred  percent it's not to take it's to go here realizing",
+      "start": 838.4,
+      "duration": 6.48
+    },
+    {
+      "text": "i cannot defend this with anything and then and  we work we're gonna see if that happens okay",
+      "start": 844.88,
+      "duration": 4.48
+    },
+    {
+      "text": "so let's let's take a look of course  d takes e6 is also a very good move",
+      "start": 853.36,
+      "duration": 4.64
+    },
+    {
+      "text": "for white but let's let's take a look uh guys  b4 is a selfish move because you're not paying",
+      "start": 859.04,
+      "duration": 7.2
+    },
+    {
+      "text": "attention to the opponent's threats was e takes  d5 not okay uh e takes d5 might have been okay",
+      "start": 866.24,
+      "duration": 7.84
+    },
+    {
+      "text": "but i don't know man like queen e5 and  then and i i guess no i don't it doesn't",
+      "start": 875.04,
+      "duration": 5.44
+    },
+    {
+      "text": "feel right it feels like i'm i'm very delicate  here f four okay my first instinct is that is",
+      "start": 880.48,
+      "duration": 6.4
+    },
+    {
+      "text": "probably not great because i can go  here or here and attack the bishop",
+      "start": 886.88,
+      "duration": 6.88
+    },
+    {
+      "text": "that is my first instinct is the  first thing that i'm thinking about um",
+      "start": 894.96,
+      "duration": 6.0
+    },
+    {
+      "text": "i i'd probably this but to be honest this actually  also looks good and part of me likes this even",
+      "start": 905.2,
+      "duration": 6.4
+    },
+    {
+      "text": "more because it it's like blocking the king side  oh it's a very difficult decision all right let's",
+      "start": 911.6,
+      "duration": 7.04
+    },
+    {
+      "text": "just guess i don't know which one is better  truthfully i i don't know nike knight uh b4 is",
+      "start": 918.64,
+      "duration": 7.6
+    },
+    {
+      "text": "interesting a lot of people suggesting this move  counter-attacking on the other side of the board",
+      "start": 926.24,
+      "duration": 3.68
+    },
+    {
+      "text": "yeah i like that well i'm i'm anticipating that  when i attack the bishop the bishop will go here",
+      "start": 929.92,
+      "duration": 7.36
+    },
+    {
+      "text": "so there won't be a knight f2 plus let's not  forget that both pieces defend this but um",
+      "start": 937.28,
+      "duration": 6.72
+    },
+    {
+      "text": "but we're gonna we're gonna see that  this was definitely 100 the best move",
+      "start": 950.96,
+      "duration": 4.0
+    },
+    {
+      "text": "a move ago uh f4 was i think inaccurate",
+      "start": 954.96,
+      "duration": 3.28
+    },
+    {
+      "text": "f4 was a mistake i think",
+      "start": 964.8,
+      "duration": 3.04
+    },
+    {
+      "text": "okay isn't this just a free bishop  if rook takes just knight takes",
+      "start": 970.16,
+      "duration": 6.24
+    },
+    {
+      "text": "okay i guess this pawn is pretty strong",
+      "start": 981.2,
+      "duration": 2.48
+    },
+    {
+      "text": "but isn't this also free",
+      "start": 986.64,
+      "duration": 1.28
+    },
+    {
+      "text": "that's free right looks free seems free",
+      "start": 990.72,
+      "duration": 5.12
+    },
+    {
+      "text": "looks free now i'm also threatening this",
+      "start": 1003.68,
+      "duration": 6.16
+    },
+    {
+      "text": "um",
+      "start": 1012.0,
+      "duration": 0.24
+    },
+    {
+      "text": "right g3 got it which defends this and this i'm  thinking queen g4 to attack the pawn i also like",
+      "start": 1019.76,
+      "duration": 6.88
+    },
+    {
+      "text": "queen e7 very difficult to decide between the  two um i believe queen g4 is a also queen h3 i",
+      "start": 1026.64,
+      "duration": 10.8
+    },
+    {
+      "text": "think i like this uh well if i go here maybe the  pawn can come up no but then i block it right",
+      "start": 1037.44,
+      "duration": 6.64
+    },
+    {
+      "text": "this also feels safer all right let's go with  the safe move let's go with the safe move",
+      "start": 1046.24,
+      "duration": 5.6
+    },
+    {
+      "text": "right knight g5 and if i go  here the the knight jumps in",
+      "start": 1054.88,
+      "duration": 2.96
+    },
+    {
+      "text": "i think that's what opponent wants  well let's get out ahead of that",
+      "start": 1058.64,
+      "duration": 3.68
+    },
+    {
+      "text": "let's get out ahead of that so if the  knight jumps in the rook is out and it's uh",
+      "start": 1065.2,
+      "duration": 4.48
+    },
+    {
+      "text": "it's more active it's more active and  then if the knight jumps out we have uh",
+      "start": 1069.68,
+      "duration": 4.56
+    },
+    {
+      "text": "we have this a queen g4 was not a fork this is  not a fork a fork has to actually be attacking",
+      "start": 1076.56,
+      "duration": 8.0
+    },
+    {
+      "text": "something it is not attacking the rook queen g4  would have just been one attacking move queen a7",
+      "start": 1084.56,
+      "duration": 9.28
+    },
+    {
+      "text": "queen a7",
+      "start": 1097.2,
+      "duration": 0.88
+    },
+    {
+      "text": "okay queen a7 sure sure sure queen so um wow  queen a7 all right let's move the rook out",
+      "start": 1102.88,
+      "duration": 7.44
+    },
+    {
+      "text": "uh queen a7 what a move nice move activating  the queen you know hitting my weaknesses",
+      "start": 1113.12,
+      "duration": 5.76
+    },
+    {
+      "text": "and move that uh very strong move  very very strong move rookie eight",
+      "start": 1118.88,
+      "duration": 3.52
+    },
+    {
+      "text": "um great move rook h1 is a mistake though  queen a7 was great um rook h1 makes no sense",
+      "start": 1124.16,
+      "duration": 7.6
+    },
+    {
+      "text": "but queen a7 was a fantastic move uh i like the  alternating you know between great and terrible",
+      "start": 1131.76,
+      "duration": 7.12
+    },
+    {
+      "text": "now we go h6 and we we remove the knight from  the defense of the pawn once we get the pawn",
+      "start": 1138.88,
+      "duration": 4.8
+    },
+    {
+      "text": "uh then um then i think we're  you know then i think we're good",
+      "start": 1144.88,
+      "duration": 10.08
+    },
+    {
+      "text": "then i think we're good",
+      "start": 1157.6,
+      "duration": 0.8
+    },
+    {
+      "text": "okay knight took a very long time to go back rook  takes now we're in business queen e6 might have",
+      "start": 1162.32,
+      "duration": 4.88
+    },
+    {
+      "text": "been even a little bit better right of course  pawn takes this is under attack uh i'm thinking",
+      "start": 1167.2,
+      "duration": 5.76
+    },
+    {
+      "text": "to defend it but i'm also going to just go all  in no need to defend just hunt the opponent",
+      "start": 1172.96,
+      "duration": 5.04
+    },
+    {
+      "text": "down",
+      "start": 1178.0,
+      "duration": 13.84
+    },
+    {
+      "text": "it's not made in two guys rookie  one is a very well protected square",
+      "start": 1196.32,
+      "duration": 3.68
+    },
+    {
+      "text": "uh",
+      "start": 1201.68,
+      "duration": 4.16
+    },
+    {
+      "text": "let's think about this",
+      "start": 1210.8,
+      "duration": 1.04
+    },
+    {
+      "text": "my opponent is writing me  messages and just said bullet time",
+      "start": 1219.28,
+      "duration": 3.6
+    },
+    {
+      "text": "great okay leah let's get even on time  and then now that we're even on time",
+      "start": 1227.68,
+      "duration": 6.88
+    },
+    {
+      "text": "rook takes f3 does not work because uh it is it  is covered all right my opponent said bullet time",
+      "start": 1235.68,
+      "duration": 8.24
+    },
+    {
+      "text": "i wanted to get even on time you know to  to to accept the invitation for bullet time",
+      "start": 1245.52,
+      "duration": 4.32
+    },
+    {
+      "text": "it is not made into i don't know why everybody's  yelling about mating too i really don't know",
+      "start": 1250.88,
+      "duration": 4.4
+    },
+    {
+      "text": "okay so that hangs a piece in a couple of  ways i think it's better to take a free rook",
+      "start": 1257.76,
+      "duration": 4.08
+    },
+    {
+      "text": "uh-huh yeah bullet time indeed let's bring  the queen back definitely bullet time",
+      "start": 1263.68,
+      "duration": 6.16
+    },
+    {
+      "text": "now we are threatening rook b3 cb3 and rook to  e2 we shred it all open we don't just go for this",
+      "start": 1272.16,
+      "duration": 6.0
+    },
+    {
+      "text": "check defended always hard to find moves  like that now rather than even taking the",
+      "start": 1283.04,
+      "duration": 3.92
+    },
+    {
+      "text": "knight we can go check king goes here we  can take the pawn with a ladder mate or we",
+      "start": 1286.96,
+      "duration": 3.52
+    },
+    {
+      "text": "can go rook a1 in the corner i like this one  more all right and now we move on to tinef",
+      "start": 1290.48,
+      "duration": 7.12
+    },
+    {
+      "text": "so let's play uh you guys have  what have you been requesting e4",
+      "start": 1300.4,
+      "duration": 3.44
+    },
+    {
+      "text": "knight f3 so standard stuff",
+      "start": 1309.84,
+      "duration": 8.0
+    },
+    {
+      "text": "some people were requesting the scotch  so knight f3 knight c6 and now d4",
+      "start": 1322.4,
+      "duration": 4.16
+    },
+    {
+      "text": "is the way to go",
+      "start": 1328.8,
+      "duration": 3.04
+    },
+    {
+      "text": "this is the scotch opening very useful  way to play if you play e4 and knight f3",
+      "start": 1337.68,
+      "duration": 5.44
+    },
+    {
+      "text": "d4 happens in a lot of positions first of  all uh in in positions with sicilians and",
+      "start": 1343.12,
+      "duration": 7.36
+    },
+    {
+      "text": "it's generally a good way to fight for  the center with the knight defending",
+      "start": 1351.44,
+      "duration": 2.32
+    },
+    {
+      "text": "no no no no no no rulo pass why are you playing  rue lopez hey guys a thousand no rue lopez please",
+      "start": 1358.72,
+      "duration": 5.92
+    },
+    {
+      "text": "italian please italian now after taking  you can go for a gambit you can play c3",
+      "start": 1364.64,
+      "duration": 6.4
+    },
+    {
+      "text": "or you can play bishop c4 which is called the  scotch gambit uh you tell me what do you want",
+      "start": 1371.92,
+      "duration": 9.6
+    },
+    {
+      "text": "me to play you want me to play the normal  scotch or the gambit scotch of course i",
+      "start": 1381.52,
+      "duration": 2.64
+    },
+    {
+      "text": "think you guys can all say gambit but in general  you don't need to play the scotch to play the",
+      "start": 1384.16,
+      "duration": 4.96
+    },
+    {
+      "text": "gambit you can just play any okay everyone's  saying gambit fantastic um so play bishop c4",
+      "start": 1389.12,
+      "duration": 6.96
+    },
+    {
+      "text": "let's a bishop c4",
+      "start": 1398.64,
+      "duration": 3.2
+    },
+    {
+      "text": "there's bishop c4",
+      "start": 1406.56,
+      "duration": 1.04
+    },
+    {
+      "text": "that's that's a good move bishop b4 check  so i can um i can play the move c3 here",
+      "start": 1410.64,
+      "duration": 4.48
+    },
+    {
+      "text": "this is generally the best thing to do  uh if they take what's interesting is",
+      "start": 1415.12,
+      "duration": 4.16
+    },
+    {
+      "text": "you don't actually have to take back uh  you can castle your king out of the way",
+      "start": 1419.28,
+      "duration": 5.04
+    },
+    {
+      "text": "why no rouleau pass at 700 because it's",
+      "start": 1427.52,
+      "duration": 3.28
+    },
+    {
+      "text": "incredibly dense and crazy opening with a lot  of really really deep ideas it's like trying to",
+      "start": 1430.8,
+      "duration": 5.36
+    },
+    {
+      "text": "learn a triple jump in figure skating and  you don't even know how to tie the boots",
+      "start": 1436.16,
+      "duration": 3.6
+    },
+    {
+      "text": "kind of a thing now in gambits what are we trying  to do we are trying to attack and create threats",
+      "start": 1440.4,
+      "duration": 7.04
+    },
+    {
+      "text": "while our opponent is still stuck trying to get  developed i would say you should start learning",
+      "start": 1447.44,
+      "duration": 4.88
+    },
+    {
+      "text": "huh i would say you should see this is how one  thousands play whatever we saw in that last game",
+      "start": 1456.0,
+      "duration": 7.84
+    },
+    {
+      "text": "that was like very inspired play from a  900. i mean this this gentleman just is",
+      "start": 1465.84,
+      "duration": 4.56
+    },
+    {
+      "text": "very high percent chance the gentleman could  be a lady uh after all how to win at chess uh",
+      "start": 1472.16,
+      "duration": 5.04
+    },
+    {
+      "text": "sorry how to play chess video does have 25  female audience so hello to the ladies um",
+      "start": 1477.2,
+      "duration": 5.28
+    },
+    {
+      "text": "this is what happens at this level i mean just  small oversized wait i just made a horrible move",
+      "start": 1482.48,
+      "duration": 4.08
+    },
+    {
+      "text": "that's actually really funny this move um is  a blunder wow wait a minute i gotta hold on",
+      "start": 1488.8,
+      "duration": 6.96
+    },
+    {
+      "text": "so if bc3 queen c3 and that's a fork  on this and this can i defend that",
+      "start": 1498.08,
+      "duration": 6.8
+    },
+    {
+      "text": "i can there's a very funny way but can i  also go here to create a threat on the queen",
+      "start": 1508.72,
+      "duration": 7.28
+    },
+    {
+      "text": "first before i take oh that might be it and then  there's no way for the queen to attack my bishop",
+      "start": 1516.72,
+      "duration": 7.12
+    },
+    {
+      "text": "see this is just a spot where someone would snap  take i'm thinking i was thinking like this and",
+      "start": 1524.64,
+      "duration": 6.88
+    },
+    {
+      "text": "then like somehow trapped the queen which is also  possible you can trap the queen in the corner but",
+      "start": 1531.52,
+      "duration": 4.88
+    },
+    {
+      "text": "the queen will get sacrificed for two rooks so  bishop g5 before i take looks like the way to go",
+      "start": 1536.4,
+      "duration": 10.8
+    },
+    {
+      "text": "so pause when you blunder just pause don't just  you know snap snap because the whole time i'm",
+      "start": 1550.48,
+      "duration": 5.84
+    },
+    {
+      "text": "thinking whoa the queen's going to be attacking  two things at this level a lot of it is being at",
+      "start": 1556.32,
+      "duration": 5.04
+    },
+    {
+      "text": "1 000 you're really thinking about your own moves  you're not really thinking too much about your",
+      "start": 1561.36,
+      "duration": 2.96
+    },
+    {
+      "text": "opponent's moves so what ends up happening is they  play a move and you go oh wow i didn't see that oh",
+      "start": 1564.32,
+      "duration": 6.72
+    },
+    {
+      "text": "wow i didn't see that it's like they play movie  like oh okay now i'm going to think but hold on",
+      "start": 1571.04,
+      "duration": 3.52
+    },
+    {
+      "text": "it's you got to think what they're going to do  also so like in this case i saw that the queen",
+      "start": 1574.56,
+      "duration": 6.8
+    },
+    {
+      "text": "would have been attacking two pieces finding a  way to trap the queen in the corner is ridiculous",
+      "start": 1581.36,
+      "duration": 4.32
+    },
+    {
+      "text": "because if you think about that i'm suggesting  it is better to lose a full rook than a bishop",
+      "start": 1585.68,
+      "duration": 5.68
+    },
+    {
+      "text": "so first we need to defend the bishop and then we  need to trap the queen which is not something that",
+      "start": 1591.36,
+      "duration": 3.76
+    },
+    {
+      "text": "is very natural right like we we're  taking that for granted because",
+      "start": 1596.16,
+      "duration": 3.44
+    },
+    {
+      "text": "i am sitting here saying it but in this case we  trade the queen we take the bishop we're just up",
+      "start": 1600.4,
+      "duration": 6.08
+    },
+    {
+      "text": "a piece so you create a concept of a danger level  you don't just take back you go can i attack the",
+      "start": 1606.48,
+      "duration": 4.96
+    },
+    {
+      "text": "queen oh i can and the reason why this move is so  good is the queen can no longer defend the bishop",
+      "start": 1611.44,
+      "duration": 5.2
+    },
+    {
+      "text": "and we are defending our rooks so now opponent  just wants to trade everything which i'm more",
+      "start": 1617.36,
+      "duration": 4.16
+    },
+    {
+      "text": "than happy about uh the way i would play  this position is in a restricting way",
+      "start": 1621.52,
+      "duration": 4.32
+    },
+    {
+      "text": "so i see that you know opponent wants to  bring the pawns forward you can play moves",
+      "start": 1626.96,
+      "duration": 3.68
+    },
+    {
+      "text": "like this to create one move threats but this is  a good move actually because if d6 we can get in",
+      "start": 1630.64,
+      "duration": 7.44
+    },
+    {
+      "text": "and fork so opponent just wants to develop  a bishop and defend their pawn but now",
+      "start": 1638.08,
+      "duration": 5.44
+    },
+    {
+      "text": "don't just be lazy and make random  developing moves you can continue to try to",
+      "start": 1643.52,
+      "duration": 4.24
+    },
+    {
+      "text": "win material and the more pawns we win the  better the endgame is going to become so",
+      "start": 1649.12,
+      "duration": 4.72
+    },
+    {
+      "text": "anyway i appreciate everybody subbing and  giving um bits i don't want to spend the",
+      "start": 1655.28,
+      "duration": 4.4
+    },
+    {
+      "text": "entire time thanking you because obviously  this will go up on youtube later but",
+      "start": 1659.68,
+      "duration": 3.2
+    },
+    {
+      "text": "um okay we'll simplify more but just do know it is  appreciated uh i've been getting a lot of offline",
+      "start": 1663.84,
+      "duration": 7.68
+    },
+    {
+      "text": "a lot of offline uh you know donations on paypal  and things like that people writing nice messages",
+      "start": 1672.72,
+      "duration": 4.24
+    },
+    {
+      "text": "that they've um and i think what i'll start  doing is maybe shouting them out like at the",
+      "start": 1676.96,
+      "duration": 4.32
+    },
+    {
+      "text": "end of certain videos it's hard it's hard actually  to figure out exactly how to on twitch it's easy",
+      "start": 1681.28,
+      "duration": 4.64
+    },
+    {
+      "text": "you know someone donates you're like oh thank you  all right let's just develop this also gives our",
+      "start": 1685.92,
+      "duration": 4.64
+    },
+    {
+      "text": "king a little getaway so our king that's a good  move if i take i would lose my bishop uh so we're",
+      "start": 1690.56,
+      "duration": 8.0
+    },
+    {
+      "text": "just gonna defend this that's a nice move trying  to deflect my pawn away from defending my bishop",
+      "start": 1698.56,
+      "duration": 5.36
+    },
+    {
+      "text": "uh and now i should bring my rook right",
+      "start": 1706.0,
+      "duration": 1.92
+    },
+    {
+      "text": "i want to trade my rook so what about rook  here opposite this rook defend my rook move",
+      "start": 1709.12,
+      "duration": 4.64
+    },
+    {
+      "text": "my bishop with no rooks on the board might and  and this is never a thing because of the pin",
+      "start": 1713.76,
+      "duration": 10.08
+    },
+    {
+      "text": "thank you",
+      "start": 1727.6,
+      "duration": 0.4
+    },
+    {
+      "text": "i saw a lot of people uh saying things  like you know they enjoy the videos they're",
+      "start": 1732.64,
+      "duration": 3.6
+    },
+    {
+      "text": "watching on twitch for the first time  we have music here we have more swearing",
+      "start": 1736.24,
+      "duration": 4.08
+    },
+    {
+      "text": "um and",
+      "start": 1742.8,
+      "duration": 1.12
+    },
+    {
+      "text": "my grandfather just emailed me and he  emailed me a forwarded message of my",
+      "start": 1750.56,
+      "duration": 6.96
+    },
+    {
+      "text": "go live notification on twitch did he do that  because they're watching at home hi gramps",
+      "start": 1757.52,
+      "duration": 7.52
+    },
+    {
+      "text": "hi family i just checked my email and it was  just a forwarded go live notification i was like",
+      "start": 1765.04,
+      "duration": 5.36
+    },
+    {
+      "text": "i know i'm live i don't um anyway we can take  uh or we can go here which attacks the rook and",
+      "start": 1770.4,
+      "duration": 11.68
+    },
+    {
+      "text": "that is better see another moment you don't  snap take you just go here take a pause and",
+      "start": 1782.08,
+      "duration": 11.76
+    },
+    {
+      "text": "didn't i miss mate with the bishops negative  because just king g8 i think i don't think i",
+      "start": 1806.0,
+      "duration": 6.32
+    },
+    {
+      "text": "missed the mate this is the easiest you open  up two attacks now if my king was on g2 and",
+      "start": 1812.32,
+      "duration": 6.8
+    },
+    {
+      "text": "they could take this with a check i would lose i  just want you guys to realize this if my king is",
+      "start": 1819.12,
+      "duration": 4.72
+    },
+    {
+      "text": "here bishop takes would check would lose me the  game or maybe not lose because i would be able",
+      "start": 1823.84,
+      "duration": 4.08
+    },
+    {
+      "text": "to defend my rook but uh in this case the the  benefit that i have is my opponent cannot take",
+      "start": 1827.92,
+      "duration": 5.76
+    },
+    {
+      "text": "my bishop and now i will push creating a  glue and by the way the rook is trapped",
+      "start": 1834.72,
+      "duration": 5.6
+    },
+    {
+      "text": "i miss the mate with the bishops  what are you all talking about",
+      "start": 1843.68,
+      "duration": 7.84
+    },
+    {
+      "text": "what",
+      "start": 1856.08,
+      "duration": 0.32
+    },
+    {
+      "text": "twitch how did we ever beat  youtube in a sub battle",
+      "start": 1863.76,
+      "duration": 3.28
+    },
+    {
+      "text": "y'all good youtube's watching  right now like man they stupid man",
+      "start": 1869.6,
+      "duration": 5.44
+    },
+    {
+      "text": "the hell is stupid we want a rematch",
+      "start": 1876.08,
+      "duration": 1.76
+    },
+    {
+      "text": "all right uh let us create a box to make it  difficult for the king to move uh just take",
+      "start": 1880.32,
+      "duration": 9.44
+    },
+    {
+      "text": "so this can't you know and i'll bring my king  maybe i can demonstrate how to mate with king",
+      "start": 1889.76,
+      "duration": 5.12
+    },
+    {
+      "text": "and two bishops and just not use the other pieces  just well there's pawns see this is the problem",
+      "start": 1894.88,
+      "duration": 5.52
+    },
+    {
+      "text": "maybe i can create an agreement where my opponent  just doesn't move their pawn oh let's do this",
+      "start": 1901.68,
+      "duration": 6.72
+    },
+    {
+      "text": "thank you thank you thank you",
+      "start": 1917.84,
+      "duration": 3.68
+    },
+    {
+      "text": "thank you thank you i appreciate it that's  what we'll do so we've locked the structure",
+      "start": 1928.8,
+      "duration": 4.48
+    },
+    {
+      "text": "we're kind of pretending like this is a  king and two bishops versus king endgame",
+      "start": 1933.28,
+      "duration": 5.12
+    },
+    {
+      "text": "and take",
+      "start": 1945.2,
+      "duration": 2.64
+    },
+    {
+      "text": "at this point you need to okay so you need to  not rush with the king otherwise it's going to",
+      "start": 1953.12,
+      "duration": 4.56
+    },
+    {
+      "text": "be a draw so what you do is you can go here here  the king is trying to get out king comes here",
+      "start": 1957.68,
+      "duration": 6.08
+    },
+    {
+      "text": "and you need the king in the corner  where you can deliver a mate successfully",
+      "start": 1966.08,
+      "duration": 4.88
+    },
+    {
+      "text": "so for example the bishop slides back right  king's only king's got a couple legal moves here",
+      "start": 1972.24,
+      "duration": 4.56
+    },
+    {
+      "text": "okay we can bring the king closer which  would force the king to go to the corner",
+      "start": 1978.24,
+      "duration": 4.48
+    },
+    {
+      "text": "right and now here's the thing if we give a check  and the king moves and we give a check the king",
+      "start": 1984.16,
+      "duration": 6.4
+    },
+    {
+      "text": "keeps running we want this position but with the  bishop here we want the exact same position but we",
+      "start": 1990.56,
+      "duration": 6.72
+    },
+    {
+      "text": "want two turns in a row so what do we do we waste  a move we waste the move we go here or or here",
+      "start": 1997.28,
+      "duration": 13.52
+    },
+    {
+      "text": "or here or here or any move where  we can give a check on the next turn",
+      "start": 2012.08,
+      "duration": 3.52
+    },
+    {
+      "text": "so when the king goes here it's check the king  is walked back and then it's made so not not",
+      "start": 2017.12,
+      "duration": 6.64
+    },
+    {
+      "text": "there that's a mouse slip we give a check  the king goes to the corner and we give a",
+      "start": 2023.76,
+      "duration": 2.96
+    },
+    {
+      "text": "mate that is how you would mate with king and  do bishops um and it's it's nice and we get to",
+      "start": 2026.72,
+      "duration": 6.24
+    },
+    {
+      "text": "so",
+      "start": 2036.72,
+      "duration": 0.24
+    },
+    {
+      "text": "a little gambit little gambit action here getting  the king out of the way we sacrifice pawns in the",
+      "start": 2040.16,
+      "duration": 3.84
+    },
+    {
+      "text": "opening we create threats i don't know why  the opponent gave us the night here i was",
+      "start": 2044.0,
+      "duration": 4.72
+    },
+    {
+      "text": "anticipating the night moving and then we would  have continued to attack for example there's ideas",
+      "start": 2048.72,
+      "duration": 5.36
+    },
+    {
+      "text": "in early gambits like sacrificing and making  the king move so that we can give a check",
+      "start": 2054.08,
+      "duration": 5.76
+    },
+    {
+      "text": "and win the night back and this is good because  we've won a pawn in this process we sacked",
+      "start": 2060.56,
+      "duration": 4.56
+    },
+    {
+      "text": "the bishop for the pawn but we got a knight  back uh and um now black also cannot castle",
+      "start": 2065.12,
+      "duration": 6.64
+    },
+    {
+      "text": "all right so the knight c3 and  bishop g5 and all these things so",
+      "start": 2073.28,
+      "duration": 4.32
+    },
+    {
+      "text": "and that in that end game in that endgame uh  it would have been i apologize in this game i",
+      "start": 2079.28,
+      "duration": 10.64
+    },
+    {
+      "text": "should say it would have been a little bit better  if that had occurred but sadly it was not to be",
+      "start": 2089.92,
+      "duration": 11.92
+    },
+    {
+      "text": "can we get a sicilian dragon sure all  right little shield all right sicilian",
+      "start": 2107.12,
+      "duration": 4.8
+    },
+    {
+      "text": "perfect we're gonna get a sicilian dragon  so sicilian has to be played against e4",
+      "start": 2111.92,
+      "duration": 3.92
+    },
+    {
+      "text": "oh my goodness my own opening is getting played  against me that is very funny that is my opening",
+      "start": 2117.6,
+      "duration": 9.28
+    },
+    {
+      "text": "i like the a3 sicilian so let's go g6 and bishop  g7 this is how you play the dragon sicilians",
+      "start": 2126.88,
+      "duration": 5.84
+    },
+    {
+      "text": "bishop g7 now hopefully this person  learned this before the match and they",
+      "start": 2138.56,
+      "duration": 5.84
+    },
+    {
+      "text": "are not just using the course during the  game which is a thing by the way that is",
+      "start": 2144.4,
+      "duration": 4.72
+    },
+    {
+      "text": "not allowed that is very much cheating  let's go e6 knight e7 and d5 all right",
+      "start": 2149.12,
+      "duration": 5.04
+    },
+    {
+      "text": "don't do that",
+      "start": 2157.52,
+      "duration": 0.72
+    },
+    {
+      "text": "ah love me some apple juice you know  people have like lost their minds today",
+      "start": 2162.96,
+      "duration": 4.88
+    },
+    {
+      "text": "they're like are you drinking perfume are you  drinking urine are you drinking soap a man",
+      "start": 2169.12,
+      "duration": 4.48
+    },
+    {
+      "text": "cannot just enjoy his martinelli's apple juice  from u.s grown fresh apples it's gotta be pee",
+      "start": 2173.6,
+      "duration": 8.16
+    },
+    {
+      "text": "y'all just can't behave yourselves it just has  to be anyway this pins my horsey to my queen",
+      "start": 2181.76,
+      "duration": 7.68
+    },
+    {
+      "text": "so my original idea to put two pawns in  the center is no longer possible because",
+      "start": 2190.24,
+      "duration": 4.64
+    },
+    {
+      "text": "my knight is not actually defending the  center but what if i attack the bishop",
+      "start": 2194.88,
+      "duration": 3.04
+    },
+    {
+      "text": "what are you doing here man you want to take or  you're going to go here what do you want to do",
+      "start": 2198.64,
+      "duration": 3.68
+    },
+    {
+      "text": "now a big decision don't play g5 i i  don't i don't like g5 i'm just going",
+      "start": 2211.44,
+      "duration": 3.36
+    },
+    {
+      "text": "to keep developing i don't like g5 don't like g5  i think it's a little bit too too much as we say",
+      "start": 2214.8,
+      "duration": 6.0
+    },
+    {
+      "text": "too much too much little  bit too much don't like it",
+      "start": 2221.68,
+      "duration": 6.16
+    },
+    {
+      "text": "castle or finnish how about a6 and b5",
+      "start": 2230.24,
+      "duration": 3.52
+    },
+    {
+      "text": "so this is this is a very closed position  both sides have their fence of pawns there's",
+      "start": 2235.36,
+      "duration": 5.84
+    },
+    {
+      "text": "no pawn tension anywhere this is the one  spot where we might have an opening and",
+      "start": 2241.2,
+      "duration": 5.68
+    },
+    {
+      "text": "like uh",
+      "start": 2249.28,
+      "duration": 0.56
+    },
+    {
+      "text": "it's you know",
+      "start": 2254.24,
+      "duration": 1.6
+    },
+    {
+      "text": "but see i just wanted to go here",
+      "start": 2262.8,
+      "duration": 1.68
+    },
+    {
+      "text": "and i was gonna do that anyway but  now we walk directly into a fork",
+      "start": 2267.04,
+      "duration": 6.16
+    },
+    {
+      "text": "so my opponent did not anticipate my move b5",
+      "start": 2273.76,
+      "duration": 2.64
+    },
+    {
+      "text": "and queen a5 check does not win material because  the knight can just go back to where it was that's",
+      "start": 2277.52,
+      "duration": 4.96
+    },
+    {
+      "text": "what a lot of people forget all right so b5  and so somebody's saying daniel nerenski said",
+      "start": 2282.48,
+      "duration": 6.56
+    },
+    {
+      "text": "you know in the dragon c5 and e6 is not good  because you can give the knight the d6 square",
+      "start": 2289.76,
+      "duration": 3.92
+    },
+    {
+      "text": "generally that is a good rule of thumb uh but  that is in much more of an open sicilian situation",
+      "start": 2294.24,
+      "duration": 5.76
+    },
+    {
+      "text": "when the move d4 happens again it's why relying  on general concepts is dangerous you need to rely",
+      "start": 2300.0,
+      "duration": 10.48
+    },
+    {
+      "text": "on specific situations and in this case like if  you just say well d6 is weak it is you're right",
+      "start": 2310.48,
+      "duration": 6.96
+    },
+    {
+      "text": "and daniel is 100 right by the way so when someone  asks that question i'm not saying oh daniel is a",
+      "start": 2318.56,
+      "duration": 4.32
+    },
+    {
+      "text": "stupid guy he don't know listen i love daniel i  think he's got great instruction i'm just saying",
+      "start": 2322.88,
+      "duration": 4.4
+    },
+    {
+      "text": "specifically he was talking about a probably  a different situation because in this case",
+      "start": 2328.16,
+      "duration": 4.24
+    },
+    {
+      "text": "my pawn goes two squares and i'm good so  it's really hard to play chess on general",
+      "start": 2332.4,
+      "duration": 5.76
+    },
+    {
+      "text": "principles okay you you must try to  stay away from always doing things",
+      "start": 2338.88,
+      "duration": 7.04
+    },
+    {
+      "text": "in a general way it's it chess is a  oftentimes a very s situation specific game",
+      "start": 2346.72,
+      "duration": 7.12
+    },
+    {
+      "text": "so uh oh there was a tts that came in oh  oh a guy oh a guy donated to be unbanned",
+      "start": 2355.04,
+      "duration": 20.08
+    },
+    {
+      "text": "no you should you you should  have thought of that sadly",
+      "start": 2376.0,
+      "duration": 2.56
+    },
+    {
+      "text": "no you should have thought of that  unfortunately prior to uh to being terrible",
+      "start": 2380.0,
+      "duration": 7.6
+    },
+    {
+      "text": "the thing is you know i  would say this there is a um",
+      "start": 2390.64,
+      "duration": 3.28
+    },
+    {
+      "text": "there is a limit to anything to anything  uh and i think that you know it's uh",
+      "start": 2395.2,
+      "duration": 10.24
+    },
+    {
+      "text": "it's important to kind of  have a framework of some sort",
+      "start": 2407.6,
+      "duration": 4.08
+    },
+    {
+      "text": "in that regard i think that there is  a limit to these things and i think",
+      "start": 2412.72,
+      "duration": 2.96
+    },
+    {
+      "text": "it could be five or ten messages but a hundred  messages over the course of three or four days",
+      "start": 2416.4,
+      "duration": 4.72
+    },
+    {
+      "text": "no that's that's not someone we want in  the community so now do i continue with d5",
+      "start": 2422.96,
+      "duration": 9.04
+    },
+    {
+      "text": "or if d6 just knight goes back and i haven't  really done anything so i am thinking d5 now",
+      "start": 2432.0,
+      "duration": 5.84
+    },
+    {
+      "text": "no i mean if you donated five dollars you can  just ask for a refund and that will be that",
+      "start": 2446.08,
+      "duration": 6.4
+    },
+    {
+      "text": "chad how are we doing how we doing we good it's  been it's been a weird episode of win at chess",
+      "start": 2458.72,
+      "duration": 4.56
+    },
+    {
+      "text": "very weird episode",
+      "start": 2465.36,
+      "duration": 0.96
+    },
+    {
+      "text": "a lot a lot of interesting and  interesting things going on",
+      "start": 2470.56,
+      "duration": 3.6
+    },
+    {
+      "text": "a lot of interesting and exciting stuff this is  the so far this game has been quite something",
+      "start": 2477.36,
+      "duration": 5.04
+    },
+    {
+      "text": "a lot of pawn play situations today i would  say was queen b6 any good yeah there's a lot",
+      "start": 2482.4,
+      "duration": 3.84
+    },
+    {
+      "text": "of good moves in this position i mean there's  a lot of good moves here i mean you can play",
+      "start": 2486.24,
+      "duration": 3.68
+    },
+    {
+      "text": "d6 d5 queen b6 queen c7 g5 f5 king h8 king h7  i mean you can do a lot of moves that don't",
+      "start": 2491.28,
+      "duration": 7.92
+    },
+    {
+      "text": "do a whole lot and they're not bad um so yeah  there's a lot of good moves i think let's take",
+      "start": 2499.2,
+      "duration": 9.36
+    },
+    {
+      "text": "and we're up material so we could trade the queen",
+      "start": 2509.76,
+      "duration": 1.84
+    },
+    {
+      "text": "uh we need to um be i was gonna say we we need  to be careful because the queen is guarding",
+      "start": 2513.76,
+      "duration": 11.52
+    },
+    {
+      "text": "the night so we would destabilize the night a  little bit although it still is protected but",
+      "start": 2525.28,
+      "duration": 3.92
+    },
+    {
+      "text": "then the opponent just didn't take back that's  very strange i want to activate my bishop and i",
+      "start": 2529.2,
+      "duration": 5.04
+    },
+    {
+      "text": "and i think i'm just going to do that by going  here uh central pawn trade opens up the bishop",
+      "start": 2534.24,
+      "duration": 5.28
+    },
+    {
+      "text": "can bring my see i can use a trade to activate  my horsey and get it in later to d3 or c4 and",
+      "start": 2540.32,
+      "duration": 7.44
+    },
+    {
+      "text": "attack the b2 pawn so using pawn trades to  improve your position uh mobilize your own",
+      "start": 2547.76,
+      "duration": 5.76
+    },
+    {
+      "text": "pieces which otherwise would be running into the  wall of pawns by chipping away at the pawns super",
+      "start": 2553.52,
+      "duration": 6.08
+    },
+    {
+      "text": "important skill figuring out when it's good when  it's bad and when it's necessary when it's not",
+      "start": 2559.6,
+      "duration": 6.16
+    },
+    {
+      "text": "necessary",
+      "start": 2565.76,
+      "duration": 12.08
+    },
+    {
+      "text": "i'm necessary you are necessary how about that",
+      "start": 2580.0,
+      "duration": 2.48
+    },
+    {
+      "text": "okay i'm gonna take that was  always my plan to open the position",
+      "start": 2583.2,
+      "duration": 3.12
+    },
+    {
+      "text": "blundered the night no we didn't we didn't  blunder the night i think what you're what",
+      "start": 2590.8,
+      "duration": 3.68
+    },
+    {
+      "text": "what this person is talking about is that  in this position if i were to take take",
+      "start": 2594.48,
+      "duration": 5.84
+    },
+    {
+      "text": "take there would be this but i never i  mean i know i drew this as an idea but",
+      "start": 2600.32,
+      "duration": 6.0
+    },
+    {
+      "text": "that would have been noticed yes i would  have probably thrown in the move g5 but",
+      "start": 2606.32,
+      "duration": 4.96
+    },
+    {
+      "text": "sadly there will not be any blunders i will  take i'm up material might as well trade horses",
+      "start": 2615.6,
+      "duration": 4.48
+    },
+    {
+      "text": "and i think i should play g5 or move  my queen out of the pin this pin is",
+      "start": 2620.64,
+      "duration": 4.08
+    },
+    {
+      "text": "very annoying to deal with i'm thinking just  like here for example this is not the best",
+      "start": 2625.52,
+      "duration": 5.36
+    },
+    {
+      "text": "move there is a little trick here my opponent  can play but see if they find it my queen is",
+      "start": 2630.88,
+      "duration": 4.64
+    },
+    {
+      "text": "defending two things that should give you all a  hint that uh the queen is a little bit overloaded",
+      "start": 2635.52,
+      "duration": 5.52
+    },
+    {
+      "text": "especially when they're on  opposite sides of the board",
+      "start": 2641.84,
+      "duration": 6.0
+    },
+    {
+      "text": "if they push the pawn here i would have  taken i have two things defending that",
+      "start": 2653.52,
+      "duration": 5.44
+    },
+    {
+      "text": "so we would have just defended  and it would have been good",
+      "start": 2659.68,
+      "duration": 4.4
+    },
+    {
+      "text": "but in this case",
+      "start": 2671.92,
+      "duration": 0.88
+    },
+    {
+      "text": "isn't this countered by this",
+      "start": 2675.6,
+      "duration": 2.0
+    },
+    {
+      "text": "oh my god",
+      "start": 2681.84,
+      "duration": 0.8
+    },
+    {
+      "text": "are you a human i didn't even see that so my idea  was this this this you found that on your own",
+      "start": 2686.16,
+      "duration": 11.6
+    },
+    {
+      "text": "wow you found that after this i don't have to  do anything and just move attack the bishop and",
+      "start": 2698.64,
+      "duration": 3.68
+    },
+    {
+      "text": "hit this too and then if queen takes queen i go  here and that hits that and that still hits that",
+      "start": 2702.32,
+      "duration": 4.48
+    },
+    {
+      "text": "what damn my lessons are paying off let's  finish our development here put our bishop",
+      "start": 2707.84,
+      "duration": 6.8
+    },
+    {
+      "text": "on the diagonal nice find nice find that's good  i didn't even see that i saw g5 i didn't even see",
+      "start": 2714.64,
+      "duration": 7.76
+    },
+    {
+      "text": "that i didn't see knight f5 i cause again i had  the g5 id in my mind but knight f5 is a nice move",
+      "start": 2722.4,
+      "duration": 5.36
+    },
+    {
+      "text": "nice find nice fine very nice that's all me that's  all my teaching no i mean it's like when people",
+      "start": 2728.32,
+      "duration": 6.24
+    },
+    {
+      "text": "write nice messages they're like hey you know i've  been watching so much of your content um you know",
+      "start": 2734.56,
+      "duration": 3.84
+    },
+    {
+      "text": "i climbed you know 5 600 points because of you  uh no you climbed it because of yourself i mean",
+      "start": 2738.4,
+      "duration": 7.76
+    },
+    {
+      "text": "you're the one that had to play the moves now you  can climb it because of me let's go f5 look at",
+      "start": 2746.72,
+      "duration": 6.72
+    },
+    {
+      "text": "this nice big space we're trying to go f4 g5 shut  down the bishop now our bishop is defending here",
+      "start": 2753.44,
+      "duration": 6.64
+    },
+    {
+      "text": "so we have a space advantage which is squares that  you control in your opponent's side of the board",
+      "start": 2760.08,
+      "duration": 3.52
+    },
+    {
+      "text": "uh check",
+      "start": 2766.64,
+      "duration": 1.28
+    },
+    {
+      "text": "so that's a move i wasn't really worried about  this check because i'm trapping the bishop i",
+      "start": 2770.16,
+      "duration": 5.2
+    },
+    {
+      "text": "think so for example bishop well for example  let's trade the queens let's go for queen trade",
+      "start": 2775.36,
+      "duration": 6.4
+    },
+    {
+      "text": "and",
+      "start": 2786.64,
+      "duration": 1.2
+    },
+    {
+      "text": "some fascinating folks in today's  chat i i really hope people who",
+      "start": 2796.88,
+      "duration": 6.72
+    },
+    {
+      "text": "make brand new accounts to come  in and write hate messages are",
+      "start": 2804.96,
+      "duration": 4.08
+    },
+    {
+      "text": "like okay in life i don't think they are i just  hope that they are but i don't think they are",
+      "start": 2810.88,
+      "duration": 8.08
+    },
+    {
+      "text": "but i hope they are i just don't think they are  let's go knight c6 to get the night out of danger",
+      "start": 2818.96,
+      "duration": 4.08
+    },
+    {
+      "text": "b5 is hanging for those of you who are concerned",
+      "start": 2823.76,
+      "duration": 2.4
+    },
+    {
+      "text": "uh but let's not forget i have a  lingering threat of trapping a bishop",
+      "start": 2827.12,
+      "duration": 3.76
+    },
+    {
+      "text": "um so even if i lose my pawn on b5  which i am anticipating will happen",
+      "start": 2833.52,
+      "duration": 5.76
+    },
+    {
+      "text": "there is this okay now this is  the right capture because what",
+      "start": 2840.64,
+      "duration": 3.84
+    },
+    {
+      "text": "this does is it gives my opponent  time it's all the time they need",
+      "start": 2844.48,
+      "duration": 2.96
+    },
+    {
+      "text": "now i would love to go here  that's what i would love",
+      "start": 2851.84,
+      "duration": 2.4
+    },
+    {
+      "text": "appreciate the uh oh they did not they had time  but they didn't do anything with their time",
+      "start": 2855.12,
+      "duration": 4.72
+    },
+    {
+      "text": "although are they trying to go rook to oh i have  something really really mean thank you disco thank",
+      "start": 2860.72,
+      "duration": 5.92
+    },
+    {
+      "text": "you a lot of people giving subs today so it's a  i guess it's a weird day a lot of ups and downs",
+      "start": 2866.64,
+      "duration": 6.32
+    },
+    {
+      "text": "it feels like first game of this climb was weird  i don't know what's going on today very strange",
+      "start": 2872.96,
+      "duration": 5.6
+    },
+    {
+      "text": "um the 900 was by far better than these two  1000s let's put it this way to say the least",
+      "start": 2881.12,
+      "duration": 5.52
+    },
+    {
+      "text": "to be kind about it um so in a lot it's crazy  to me once we made this channel in the discord",
+      "start": 2887.44,
+      "duration": 8.16
+    },
+    {
+      "text": "um for potentially reporting cheaters how many  people are actually like legitimately cheating",
+      "start": 2896.4,
+      "duration": 5.76
+    },
+    {
+      "text": "like it wasn't even nonsense like i've been  seeing accounts with like 20 straight games of 99",
+      "start": 2902.16,
+      "duration": 5.28
+    },
+    {
+      "text": "and i'm like nuts i had no idea so my big brain  idea here was to play pawn takes bishop because",
+      "start": 2907.44,
+      "duration": 8.08
+    },
+    {
+      "text": "when they take my queen my rook and my pawn hit  this which will be a fork and they didn't do it",
+      "start": 2915.52,
+      "duration": 8.24
+    },
+    {
+      "text": "i would have won the rook and then i would have  won the other rook but instead i will just move my",
+      "start": 2923.76,
+      "duration": 6.24
+    },
+    {
+      "text": "queen out of the way my opponent said oh man did  my opponent just like forget they could go here",
+      "start": 2930.0,
+      "duration": 11.84
+    },
+    {
+      "text": "right visualization is a difficult thing",
+      "start": 2953.92,
+      "duration": 4.64
+    },
+    {
+      "text": "there's no easy tips brute forcing it is  generally a good way to go see pawn to e3",
+      "start": 2958.56,
+      "duration": 11.28
+    },
+    {
+      "text": "rook 2 a4 is a good move rook take 4 is a good  move i'm playing e3 because it opens my bishop",
+      "start": 2973.28,
+      "duration": 4.32
+    },
+    {
+      "text": "uh and my queen defends my pawn",
+      "start": 2978.24,
+      "duration": 1.52
+    },
+    {
+      "text": "so uh guys i i honestly i say thank you  for working pawns thank you very much",
+      "start": 2981.92,
+      "duration": 5.12
+    },
+    {
+      "text": "i say that rather than banning this version  of this account we just kind of it's like",
+      "start": 2987.76,
+      "duration": 4.32
+    },
+    {
+      "text": "a toddler it's just like a toddler we just  wait for the like the toddler to kind of like",
+      "start": 2992.08,
+      "duration": 6.24
+    },
+    {
+      "text": "you know use all of their energy on  their outburst and then we just so anyway",
+      "start": 2998.32,
+      "duration": 6.32
+    },
+    {
+      "text": "until obviously you know it  goes past the point and then",
+      "start": 3008.48,
+      "duration": 3.52
+    },
+    {
+      "text": "the process begins anew uh maybe bishop takes f3",
+      "start": 3012.0,
+      "duration": 4.08
+    },
+    {
+      "text": "sacrifice there's always a sacrifice like  this when you have like big artillery",
+      "start": 3018.8,
+      "duration": 3.36
+    },
+    {
+      "text": "bishop f3 i think is the way to go because pawn  takes i can slide in with a check and win the rook",
+      "start": 3022.8,
+      "duration": 6.0
+    },
+    {
+      "text": "queen is not guarding the rook  there is a pawn in the way so",
+      "start": 3029.36,
+      "duration": 10.48
+    },
+    {
+      "text": "maybe king h7 that's a check  so i think just king h7 hiding",
+      "start": 3041.76,
+      "duration": 4.72
+    },
+    {
+      "text": "i'm gonna check of course we can play rook f3  as well but picking up the rook is i think the",
+      "start": 3048.08,
+      "duration": 4.64
+    },
+    {
+      "text": "easiest a lot you know just go for the kind of  the simple conversion here and uh we'll be okay",
+      "start": 3052.72,
+      "duration": 5.2
+    },
+    {
+      "text": "so queen here check",
+      "start": 3061.52,
+      "duration": 6.32
+    },
+    {
+      "text": "check here queen h5 is mate and one defended can  i go here because of this uh h5 would not have",
+      "start": 3071.84,
+      "duration": 9.36
+    },
+    {
+      "text": "been made because of this but then bishop  h6 would have been made on the next move",
+      "start": 3081.2,
+      "duration": 3.28
+    },
+    {
+      "text": "um and this game was a was a sicilian we played  our little setup and we we kind of stayed patient",
+      "start": 3085.52,
+      "duration": 9.28
+    },
+    {
+      "text": "finishing our development using our pawns to  take space early blunder by the opponent so",
+      "start": 3094.8,
+      "duration": 6.0
+    },
+    {
+      "text": "a opponent should have just castled knight a4 was  a was a very weird very weird move just from the",
+      "start": 3103.2,
+      "duration": 8.8
+    },
+    {
+      "text": "way like you just finish your development before  you go to battle my friend said i recently played",
+      "start": 3112.0,
+      "duration": 4.56
+    },
+    {
+      "text": "my friend my opponent said i recently played  a high rated player who used the same opening",
+      "start": 3116.56,
+      "duration": 3.44
+    },
+    {
+      "text": "but i can't believe i blundered that fork  early and then didn't take your queen",
+      "start": 3120.0,
+      "duration": 3.84
+    },
+    {
+      "text": "nerves do a lot was a good game just review  the line in the line you're you're not",
+      "start": 3125.92,
+      "duration": 5.92
+    },
+    {
+      "text": "supposed to play bishop g5 so early you're  supposed to go bishop a2 make a waiting move",
+      "start": 3131.84,
+      "duration": 4.72
+    },
+    {
+      "text": "and then try to develop your pieces a little  bit later so um but that was a good game i mean",
+      "start": 3137.68,
+      "duration": 6.8
+    },
+    {
+      "text": "you learn from games like this alright let's  play sledge sledge is not online all right we",
+      "start": 3146.08,
+      "duration": 6.48
+    },
+    {
+      "text": "will skip sledge for now it's another we just like  i said it's a weird day a lot of people okay our",
+      "start": 3152.56,
+      "duration": 4.8
+    },
+    {
+      "text": "coombs is also not online fantastic my next two  opponents are not online what do we do i guess",
+      "start": 3157.36,
+      "duration": 5.44
+    },
+    {
+      "text": "i'll have to edit this part out of the youtube  video but i'll just sit here and wait i guess",
+      "start": 3162.8,
+      "duration": 5.28
+    },
+    {
+      "text": "all right well hopefully hopefully these people  get online i mean i don't know why they wouldn't",
+      "start": 3170.32,
+      "duration": 5.52
+    },
+    {
+      "text": "chess.com live please there we go hi sledge",
+      "start": 3176.88,
+      "duration": 4.24
+    },
+    {
+      "text": "c4 in english okay so the best way to play  against in english is to just take the center",
+      "start": 3185.28,
+      "duration": 6.0
+    },
+    {
+      "text": "of course c4 e5 it's a main line and now white  basically decides are they going to play knight",
+      "start": 3191.84,
+      "duration": 5.52
+    },
+    {
+      "text": "c3 knight f3 or they're going to play knight c3  and g3 in general knight c6 is the best second",
+      "start": 3197.36,
+      "duration": 5.76
+    },
+    {
+      "text": "move it's a very flexible move you don't have  to play it there is a lot of ways to play this",
+      "start": 3203.12,
+      "duration": 3.68
+    },
+    {
+      "text": "uh and my opponent plays knight f3 so i  can play the four knights but i prefer",
+      "start": 3207.52,
+      "duration": 3.52
+    },
+    {
+      "text": "i prefer two pawns in the center with e5 f5  uh this is kind of like reverse vienna style",
+      "start": 3212.24,
+      "duration": 6.24
+    },
+    {
+      "text": "actually it looks very much like a vienna now  d3 uh we can play this fully vienna style which",
+      "start": 3218.48,
+      "duration": 5.52
+    },
+    {
+      "text": "is bishop to b4 pinning the knight bishop c5  looks good but in general it's not recommended",
+      "start": 3224.0,
+      "duration": 5.28
+    },
+    {
+      "text": "to play the bishop to c4 against sicilian if you  remember from the game we literally just played",
+      "start": 3229.28,
+      "duration": 7.68
+    },
+    {
+      "text": "you notice what happened i started playing e6 d5",
+      "start": 3238.56,
+      "duration": 3.36
+    },
+    {
+      "text": "so even though the colors are reversed if i  put my bishop on c5 e3 d4 is possible it's the",
+      "start": 3242.96,
+      "duration": 6.32
+    },
+    {
+      "text": "exact same thing just with the colors flipped  so we do here if we play bishop to b4 instead",
+      "start": 3249.28,
+      "duration": 5.92
+    },
+    {
+      "text": "because we don't want to get the bishop hit with  a center pawn instead if we get hit with the flank",
+      "start": 3255.76,
+      "duration": 3.76
+    },
+    {
+      "text": "pawn we'll just trade and we'll be okay so you  see how the same exact concept comes up with",
+      "start": 3259.52,
+      "duration": 6.0
+    },
+    {
+      "text": "colors flipped it's hard to realize that but if  the opponent has not committed both center pawns",
+      "start": 3265.52,
+      "duration": 5.6
+    },
+    {
+      "text": "then this can be possible now bishop g5 is of  course a decent move we just develop maybe i'll",
+      "start": 3272.48,
+      "duration": 5.92
+    },
+    {
+      "text": "play h6 on the next turn to kick the bishop away  this trade is good for me it activates my queen my",
+      "start": 3278.4,
+      "duration": 5.92
+    },
+    {
+      "text": "queen gets behind the pawns if a3 i'm gonna make  this trade it's not great to give away a bishop",
+      "start": 3284.32,
+      "duration": 5.2
+    },
+    {
+      "text": "for a night so early but the position is fine  so take i'm gonna go with my plan if opponent",
+      "start": 3289.52,
+      "duration": 5.36
+    },
+    {
+      "text": "tries to stick around this just gets their bishop  trapped another pattern from the last game so the",
+      "start": 3294.88,
+      "duration": 5.36
+    },
+    {
+      "text": "bishop really should be taking or going like all  the way back this way ah but we'll see there it is",
+      "start": 3300.24,
+      "duration": 7.36
+    },
+    {
+      "text": "queen takes and now black has no problems we have  escaped the opening uh castles is next or develop",
+      "start": 3307.6,
+      "duration": 7.68
+    },
+    {
+      "text": "our bishop and go long i don't really like  going long i think the rook is on this file",
+      "start": 3315.28,
+      "duration": 4.56
+    },
+    {
+      "text": "of course if we play b6 we're okay i'm already  also visualizing this and i'm looking at e4",
+      "start": 3320.72,
+      "duration": 5.92
+    },
+    {
+      "text": "and i gotta tell you that actually uh",
+      "start": 3329.84,
+      "duration": 1.84
+    },
+    {
+      "text": "i gotta tell you oh man that looks",
+      "start": 3333.76,
+      "duration": 3.12
+    },
+    {
+      "text": "is the king kind of exposed of castle no  no no no it is not oh man you see this is",
+      "start": 3340.24,
+      "duration": 7.92
+    },
+    {
+      "text": "a this is the thing we can castle naturally  but we're looking at one aggressive move",
+      "start": 3348.16,
+      "duration": 4.0
+    },
+    {
+      "text": "and i actually think this is the best move i  don't want to teach you all to go to war before",
+      "start": 3355.12,
+      "duration": 5.12
+    },
+    {
+      "text": "you castle but at the same time there's ways  you can punish the opponent's setup very early",
+      "start": 3360.24,
+      "duration": 4.32
+    },
+    {
+      "text": "uh and e4 somebody said what about this this  knight d4 who said i have to take this back",
+      "start": 3365.84,
+      "duration": 5.68
+    },
+    {
+      "text": "who said i have to take  this back i'm gonna go check",
+      "start": 3374.8,
+      "duration": 2.24
+    },
+    {
+      "text": "which actually forces the knight to retreat  because if queen blocks queen takes rook so",
+      "start": 3378.0,
+      "duration": 6.4
+    },
+    {
+      "text": "on the one hand castles is fine  someone says is the king exposed on ga",
+      "start": 3384.96,
+      "duration": 3.68
+    },
+    {
+      "text": "again that is living chess by abstract terms and  i want you all to stay away from things like that",
+      "start": 3389.28,
+      "duration": 6.24
+    },
+    {
+      "text": "it's very abstract oh it's not a safe king why not  who can attack the king when it castles can any",
+      "start": 3395.52,
+      "duration": 7.04
+    },
+    {
+      "text": "white has one night out you're really scared of  one horse no you're scared of your own shadow",
+      "start": 3402.56,
+      "duration": 4.16
+    },
+    {
+      "text": "right so the opponent plays knight  d4 take take take we've won a pawn",
+      "start": 3407.92,
+      "duration": 4.4
+    },
+    {
+      "text": "we can now take and castle or play queen  c3 check first and now there is no castle",
+      "start": 3412.32,
+      "duration": 7.68
+    },
+    {
+      "text": "queen d2 queen a1 so opponent has to go king f1  and now they cannot castle the king successfully",
+      "start": 3420.72,
+      "duration": 7.04
+    },
+    {
+      "text": "which means that the rook cannot get out and now  probably we can just take and then go like this",
+      "start": 3427.76,
+      "duration": 8.48
+    },
+    {
+      "text": "probably that's the best thing to do just take  the pawn once they have to play pawn takes if they",
+      "start": 3437.44,
+      "duration": 5.84
+    },
+    {
+      "text": "take like this there is this and then we get out  of the way if we we we actually also could have",
+      "start": 3443.28,
+      "duration": 5.28
+    },
+    {
+      "text": "castled and sacrificed the pawn but opened up  our rook see that would have been the other",
+      "start": 3448.56,
+      "duration": 5.68
+    },
+    {
+      "text": "argument castles pawn takes rook is open this way  we don't lose a pawn but our rook is not so open",
+      "start": 3454.24,
+      "duration": 7.2
+    },
+    {
+      "text": "no you're just the thing is you're fearful of the  unknown you're you're fearful of well what what if",
+      "start": 3468.48,
+      "duration": 6.08
+    },
+    {
+      "text": "i miss something well what are you gonna miss now  here's a difficult decision where do i put my king",
+      "start": 3474.56,
+      "duration": 7.44
+    },
+    {
+      "text": "i'm gonna put my king here uh because i wanna  go f4 in the future and you know i don't want",
+      "start": 3482.8,
+      "duration": 7.28
+    },
+    {
+      "text": "my king on a light square this is a light  squared bishop it's the only thing that can",
+      "start": 3490.08,
+      "duration": 3.92
+    },
+    {
+      "text": "opponent's doing a very good job though so now  i'm going to force the bishop out of the middle",
+      "start": 3495.12,
+      "duration": 3.76
+    },
+    {
+      "text": "with the move c6 that's number one i'm going  to bring the bishop back i don't like that",
+      "start": 3498.88,
+      "duration": 3.52
+    },
+    {
+      "text": "i have a lot of options here but and then f4 is  going to be my next move i actually could have",
+      "start": 3503.76,
+      "duration": 5.36
+    },
+    {
+      "text": "played this first a little bit unhappy with myself  here but i'm going to go f4 of course if pawn",
+      "start": 3509.12,
+      "duration": 5.52
+    },
+    {
+      "text": "takes there is rook takes and i would like to take  to open up my rook now you say well what about",
+      "start": 3514.64,
+      "duration": 4.64
+    },
+    {
+      "text": "take take this rook is open too yeah we'll have to  figure that out if we actually want to make this",
+      "start": 3519.28,
+      "duration": 4.56
+    },
+    {
+      "text": "decision but for now i want this trade because  i just get a fully activated rook and i do have",
+      "start": 3523.84,
+      "duration": 6.8
+    },
+    {
+      "text": "to play d6 and activate my bishop at some point  also which is why maybe c6 was wrong maybe this",
+      "start": 3530.64,
+      "duration": 5.2
+    },
+    {
+      "text": "bishop is actually not doing anything and i didn't  have to kick it out maybe that one move actually",
+      "start": 3535.84,
+      "duration": 4.88
+    },
+    {
+      "text": "brought the bishop back to a more useful square  for white whereas in this case if i had just",
+      "start": 3540.72,
+      "duration": 4.48
+    },
+    {
+      "text": "ignored the bishop completely it would have had  no role in the game but i don't know i don't know",
+      "start": 3545.2,
+      "duration": 4.64
+    },
+    {
+      "text": "we'll see this should be four's a bit  strange i guess maybe long-term idea",
+      "start": 3551.36,
+      "duration": 11.04
+    },
+    {
+      "text": "to like make me somehow like this this this  not a bad idea actually so d6 queen h5 huh",
+      "start": 3562.4,
+      "duration": 6.56
+    },
+    {
+      "text": "that's a move wow that doesn't  move that is a move that is a move",
+      "start": 3571.04,
+      "duration": 8.16
+    },
+    {
+      "text": "i kind of kind of like it hmm that is certainly a  move have i mentioned that it's a move by the way",
+      "start": 3583.92,
+      "duration": 9.76
+    },
+    {
+      "text": "um maybe d5 which at least hits the bishop and  might deflect it you know what this could be",
+      "start": 3595.12,
+      "duration": 4.96
+    },
+    {
+      "text": "an instructive move d5 and this is why i'm  playing this move because it wins me time",
+      "start": 3600.08,
+      "duration": 4.96
+    },
+    {
+      "text": "i sacrifice a pawn but the bishop is  deflected from the useful diagonal",
+      "start": 3605.76,
+      "duration": 4.48
+    },
+    {
+      "text": "it activates my bishop for me and once i  get my bishop out i also get my rook out and",
+      "start": 3610.24,
+      "duration": 4.88
+    },
+    {
+      "text": "first of all if i move my bishop to this very  useful square on f5 my opponent will never mate me",
+      "start": 3615.12,
+      "duration": 5.2
+    },
+    {
+      "text": "right they will never make me they will want  to go back what if i play bishop by five now",
+      "start": 3624.0,
+      "duration": 3.84
+    },
+    {
+      "text": "they go back to e4 f3 check this is gonna be the  key i need to play this move at the right moment",
+      "start": 3627.84,
+      "duration": 6.24
+    },
+    {
+      "text": "because it cannot be taken with the queen  and what it will do is it will force my",
+      "start": 3634.08,
+      "duration": 3.92
+    },
+    {
+      "text": "opponent to be very passive let's do it now  let's do it now if i play f takes g3 that's",
+      "start": 3638.0,
+      "duration": 5.44
+    },
+    {
+      "text": "also not bad but i like this move because one  option is opponent suffocates their own king",
+      "start": 3643.44,
+      "duration": 5.52
+    },
+    {
+      "text": "right queen is also blocked but if the bishop  takes the bishop is now stuck making sure",
+      "start": 3650.24,
+      "duration": 8.16
+    },
+    {
+      "text": "my rook never gets activated so i'll play for  example queen to d4 next that's just one option",
+      "start": 3658.4,
+      "duration": 6.88
+    },
+    {
+      "text": "bishop h3 it looks very fancy but accomplishes  literally zero queen f6 is interesting",
+      "start": 3667.76,
+      "duration": 7.04
+    },
+    {
+      "text": "uh but i gotta anticipate this is happening next  um bishop f5 bishop e4 you know somehow it's all",
+      "start": 3676.08,
+      "duration": 10.56
+    },
+    {
+      "text": "holding together",
+      "start": 3689.6,
+      "duration": 0.96
+    },
+    {
+      "text": "it's not completely lost",
+      "start": 3693.36,
+      "duration": 4.48
+    },
+    {
+      "text": "it like somehow isn't",
+      "start": 3700.48,
+      "duration": 1.68
+    },
+    {
+      "text": "totally losing this move kind of  defends the whole house for white",
+      "start": 3705.04,
+      "duration": 6.8
+    },
+    {
+      "text": "how do we do this",
+      "start": 3715.6,
+      "duration": 1.36
+    },
+    {
+      "text": "let's go bishop f5 if bishop e4 maybe we take  and we go rook d8 maybe that's how we play this",
+      "start": 3720.08,
+      "duration": 10.4
+    },
+    {
+      "text": "we play this without the bishops and just  two rooks and queen hunt down the white",
+      "start": 3731.12,
+      "duration": 5.04
+    },
+    {
+      "text": "territory but white is so close to solving their  problems here so close which just makes me think",
+      "start": 3736.16,
+      "duration": 11.6
+    },
+    {
+      "text": "this might have been a good idea this  might not have been that good of an idea",
+      "start": 3748.56,
+      "duration": 5.28
+    },
+    {
+      "text": "what no no no no no the this this is no no no  no no no because now i go here this one move",
+      "start": 3756.72,
+      "duration": 10.4
+    },
+    {
+      "text": "very greedy move gives me the time to bring  my rook now bishop e4 is no longer possible",
+      "start": 3767.12,
+      "duration": 8.8
+    },
+    {
+      "text": "because you've pinned yourself so  this is a is a fatal error i think",
+      "start": 3775.92,
+      "duration": 5.92
+    },
+    {
+      "text": "i think bishop takes b7 is underestimating my  position here so i'm down two pawns but i have all",
+      "start": 3782.88,
+      "duration": 8.8
+    },
+    {
+      "text": "my pieces activated now for the cost of two pawns  this looks really scary for white very very scary",
+      "start": 3791.68,
+      "duration": 7.52
+    },
+    {
+      "text": "he might have misclicked",
+      "start": 3803.44,
+      "duration": 1.36
+    },
+    {
+      "text": "uh no that was a very deliberate move  oh and and immediately there's a blunder",
+      "start": 3806.96,
+      "duration": 4.4
+    },
+    {
+      "text": "black to play in wind chat",
+      "start": 3811.36,
+      "duration": 1.2
+    },
+    {
+      "text": "sometimes the best move is not going forward  sometimes the best move is going backwards",
+      "start": 3816.48,
+      "duration": 7.36
+    },
+    {
+      "text": "queen c6 check the the light  squared bishop has left the diagonal",
+      "start": 3824.8,
+      "duration": 3.28
+    },
+    {
+      "text": "and now we hit both we we just look for a check  there was another check that was actually very",
+      "start": 3828.96,
+      "duration": 4.08
+    },
+    {
+      "text": "cool we could have went here if pawn takes  we take the queen but then they win a rook",
+      "start": 3833.04,
+      "duration": 4.8
+    },
+    {
+      "text": "and a bishop but this move is just  very easy we pick up the full bishop",
+      "start": 3838.48,
+      "duration": 3.12
+    },
+    {
+      "text": "and we're winning so uh i i really want to see if  this d5 f3 idea was correct or not i don't think",
+      "start": 3842.24,
+      "duration": 6.8
+    },
+    {
+      "text": "f3 was the right idea if my opponent had found  that one move which holds the whole position oh",
+      "start": 3849.04,
+      "duration": 4.72
+    },
+    {
+      "text": "and now this is why you don't just take don't  just take always look for checks kabam bishop h3",
+      "start": 3855.68,
+      "duration": 11.44
+    },
+    {
+      "text": "rook and queen even if the rook  wasn't there this is winning because",
+      "start": 3868.32,
+      "duration": 4.72
+    },
+    {
+      "text": "it's a deflection tactic you deflect  the king from protecting the queen",
+      "start": 3873.04,
+      "duration": 5.2
+    },
+    {
+      "text": "and now the game is over even if the  rook wasn't there bishop h3 was still",
+      "start": 3879.6,
+      "duration": 3.04
+    },
+    {
+      "text": "was there and now since the king is locked",
+      "start": 3884.72,
+      "duration": 2.48
+    },
+    {
+      "text": "we end this by a rook lift it's maintenance ii  unstoppable maintenance ii rook f5 or rook d5",
+      "start": 3888.32,
+      "duration": 8.64
+    },
+    {
+      "text": "because the king cannot go back the pawn cannot  come up rook h5 is unstoppable mate rook d5",
+      "start": 3898.72,
+      "duration": 6.08
+    },
+    {
+      "text": "and rook h5 and the game is over  it's called the rook lift up and over",
+      "start": 3905.68,
+      "duration": 3.12
+    },
+    {
+      "text": "uh and that is the game how  quickly it all falls apart",
+      "start": 3910.24,
+      "duration": 3.76
+    },
+    {
+      "text": "uh an instructive game the concept of time in  this game super important white never got to",
+      "start": 3915.12,
+      "duration": 4.56
+    },
+    {
+      "text": "move their roots i mean i'm not really counting  this move uh white spent 25 moves of the game",
+      "start": 3919.68,
+      "duration": 5.68
+    },
+    {
+      "text": "and didn't get to move their rooks it was black  basically attacking from start to finish so",
+      "start": 3925.36,
+      "duration": 3.52
+    },
+    {
+      "text": "um rook d5 or h5 is a nice little finishing  touch and we will analyze the game we'll see",
+      "start": 3930.16,
+      "duration": 6.16
+    },
+    {
+      "text": "the c65 idea you know this game became crazy um  and and it's funny it's like you pin my rook to",
+      "start": 3936.32,
+      "duration": 5.92
+    },
+    {
+      "text": "my queen but this is maiden there's nothing  to be done nice game um so first things first",
+      "start": 3942.24,
+      "duration": 7.68
+    },
+    {
+      "text": "if you're gonna play the english you cannot play  and then trade your bishops like this i recommend",
+      "start": 3949.92,
+      "duration": 6.16
+    },
+    {
+      "text": "going for uh first of all this setup  the best thing for white to do here",
+      "start": 3956.8,
+      "duration": 4.4
+    },
+    {
+      "text": "is to play d4 like white needs to just  immediately attack the center so that's",
+      "start": 3962.16,
+      "duration": 4.24
+    },
+    {
+      "text": "that's number one you go back you learn this  line you improve your opening number two",
+      "start": 3966.4,
+      "duration": 3.92
+    },
+    {
+      "text": "it's like okay how did i handle the position  i missed e4 i miss that early on it's not",
+      "start": 3971.04,
+      "duration": 5.68
+    },
+    {
+      "text": "just about you know developing my pieces slowly  uh e4 is the only move here to give advantage",
+      "start": 3976.72,
+      "duration": 4.64
+    },
+    {
+      "text": "take take take here check king f1 yeah and see  the computer doesn't even wow the computer does",
+      "start": 3982.64,
+      "duration": 6.24
+    },
+    {
+      "text": "not like my take it actually likes castles  it likes the idea of sacrificing the pawn",
+      "start": 3988.88,
+      "duration": 5.12
+    },
+    {
+      "text": "but opening up the rook so this this castle bishop  d5 and it also doesn't like c6 see a move that i",
+      "start": 3994.0,
+      "duration": 7.76
+    },
+    {
+      "text": "played well it likes c6 and f4 together but it  doesn't like it more than just going here um",
+      "start": 4001.76,
+      "duration": 8.0
+    },
+    {
+      "text": "and f4 by the way notice what the top engine  move here is why would you push pawns in",
+      "start": 4009.76,
+      "duration": 6.56
+    },
+    {
+      "text": "front of your king because i now have no way in  isn't that interesting i don't have a way in now",
+      "start": 4016.32,
+      "duration": 7.52
+    },
+    {
+      "text": "i can't break through so g4  kind of stops my way through",
+      "start": 4028.64,
+      "duration": 5.2
+    },
+    {
+      "text": "opponent goes bishop e4 is the best move here d5  yes engine likes it it supports my idea and now",
+      "start": 4034.56,
+      "duration": 5.36
+    },
+    {
+      "text": "f3 it doesn't like not only does it not  like it it already thinks white is equal",
+      "start": 4039.92,
+      "duration": 5.44
+    },
+    {
+      "text": "why can't white go bishop e4 here oh okay white  can go bishop e4 see this is what i thought was",
+      "start": 4047.6,
+      "duration": 7.12
+    },
+    {
+      "text": "gonna happen and i was just gonna go rook d8  and see this was good actually what i thought",
+      "start": 4054.72,
+      "duration": 6.16
+    },
+    {
+      "text": "here as this was my idea i thought this was really  good and the computer likes it the computer only",
+      "start": 4060.88,
+      "duration": 4.48
+    },
+    {
+      "text": "finds one move for white and it's equal danger  you disregard the attack on your queen and you",
+      "start": 4065.36,
+      "duration": 4.88
+    },
+    {
+      "text": "counter attack me if white doesn't find that and  instead goes here the game is over after rook d2",
+      "start": 4070.24,
+      "duration": 5.6
+    },
+    {
+      "text": "so we basically just swarm in which was my you  know whole idea um but there's a small detail",
+      "start": 4076.56,
+      "duration": 5.2
+    },
+    {
+      "text": "that the computer doesn't like there but this move  is too much and did we play the best move rook 88",
+      "start": 4081.76,
+      "duration": 5.92
+    },
+    {
+      "text": "rook a beater rook 88 very close rook d8 and now  yeah this of course loses on the spot had the",
+      "start": 4087.68,
+      "duration": 8.88
+    },
+    {
+      "text": "opponent played something like rook c1 to attack  the queen i would have played maybe queen b2",
+      "start": 4096.56,
+      "duration": 4.4
+    },
+    {
+      "text": "i mean again this is very dangerous you'll  notice that even though black is down two pawns",
+      "start": 4102.48,
+      "duration": 4.08
+    },
+    {
+      "text": "uh it's zero zero zero and if anything white has  a very difficult situation defending themselves",
+      "start": 4107.12,
+      "duration": 6.0
+    },
+    {
+      "text": "so means that white black has something called  compensation black is uh doing very well here very",
+      "start": 4113.12,
+      "duration": 5.76
+    },
+    {
+      "text": "happy in this position so that was a good game  a lot of unstructured moments in that game combs",
+      "start": 4118.88,
+      "duration": 5.28
+    },
+    {
+      "text": "uh we played e4 last game right so let's  play d4 and maybe i'll play in english",
+      "start": 4126.48,
+      "duration": 5.36
+    },
+    {
+      "text": "yes black has constipation very good you  guys are hilarious uh let's play the london",
+      "start": 4136.64,
+      "duration": 4.24
+    },
+    {
+      "text": "so london into king's indian  which is what's being played here",
+      "start": 4140.88,
+      "duration": 3.36
+    },
+    {
+      "text": "uh london into king's indian i like to play  knight c3 queen d2 long castle that's how i play",
+      "start": 4145.6,
+      "duration": 5.04
+    },
+    {
+      "text": "i recommend all london players play  like this against king's indian players",
+      "start": 4150.64,
+      "duration": 3.84
+    },
+    {
+      "text": "so you play uh queen d2 e4 long castle why because  this turns the game from a regular chess game into",
+      "start": 4155.04,
+      "duration": 8.8
+    },
+    {
+      "text": "you hunting them down and they're running from the  woods you know that scene uh in uh sherlock holmes",
+      "start": 4163.84,
+      "duration": 6.24
+    },
+    {
+      "text": "game of shadows no is that is that the most recent  one is that the one with moriarty that is game of",
+      "start": 4170.08,
+      "duration": 4.88
+    },
+    {
+      "text": "shadows right yeah when they're running through  the woods and there's like you know the the thing",
+      "start": 4174.96,
+      "duration": 4.96
+    },
+    {
+      "text": "flying after them and exploding all the all the  things the thing flying after them and exploding",
+      "start": 4179.92,
+      "duration": 5.44
+    },
+    {
+      "text": "what an epic movie i love those movies i think  robert downey jr of sherlock holmes was brilliant",
+      "start": 4185.36,
+      "duration": 4.4
+    },
+    {
+      "text": "um maybe i should make a youtube video  about the chess game that they played",
+      "start": 4191.6,
+      "duration": 3.28
+    },
+    {
+      "text": "oh how's that for you oh i  just got a good youtube idea oh",
+      "start": 4197.2,
+      "duration": 7.2
+    },
+    {
+      "text": "oh that was such a good idea oh i'm  like shaking it's such a good idea",
+      "start": 4206.88,
+      "duration": 3.76
+    },
+    {
+      "text": "my ear is ringing it's such a good idea or maybe  that's just tinnitus sorry youtube i get excited",
+      "start": 4211.92,
+      "duration": 5.36
+    },
+    {
+      "text": "if you're watching like eight months in  the future i probably made the video so",
+      "start": 4217.28,
+      "duration": 2.64
+    },
+    {
+      "text": "go check it out okay so bishop h6 is the point  uh and the point is that you're removing the",
+      "start": 4220.48,
+      "duration": 5.76
+    },
+    {
+      "text": "beacon of hope for black's position that dark  squared bishop is black's entire hope and dream",
+      "start": 4226.24,
+      "duration": 5.52
+    },
+    {
+      "text": "and you just remove it completely uh  and uh you also remove a king's defender",
+      "start": 4231.76,
+      "duration": 6.8
+    },
+    {
+      "text": "and then you start your own attack that is the  benefit of castling opposite sides i would love it",
+      "start": 4241.04,
+      "duration": 4.4
+    },
+    {
+      "text": "if this pawn ceased to exist it's it's not a human  it's a pawn so we can say such things and then",
+      "start": 4245.44,
+      "duration": 6.56
+    },
+    {
+      "text": "the queen and the rook would be activated together",
+      "start": 4252.64,
+      "duration": 5.2
+    },
+    {
+      "text": "nice very nice great move in general  the rule of thumb is h4 h5 is what i",
+      "start": 4260.4,
+      "duration": 5.2
+    },
+    {
+      "text": "always tell people who play these positions  with black don't let white have fun now i'm",
+      "start": 4265.6,
+      "duration": 3.68
+    },
+    {
+      "text": "gonna go e4 which is always my idea two pawns  in the center this is guarded this is garden",
+      "start": 4269.28,
+      "duration": 4.32
+    },
+    {
+      "text": "and slowly we will build up the other pawn break  we need to go g4 at some point so that they take",
+      "start": 4273.6,
+      "duration": 5.92
+    },
+    {
+      "text": "and we continue to attack we don't care if we  lose one or two pawns on this side of the board",
+      "start": 4279.52,
+      "duration": 5.12
+    },
+    {
+      "text": "because what will happen is we'll open our  lines for our rooks our bishops our knights",
+      "start": 4284.64,
+      "duration": 3.84
+    },
+    {
+      "text": "will be very happy now a lot of people  here will play this move because",
+      "start": 4289.04,
+      "duration": 2.8
+    },
+    {
+      "text": "oh that's not a good move because e5 is the king's  indian style move this move is no good blocks the",
+      "start": 4293.12,
+      "duration": 5.2
+    },
+    {
+      "text": "bishop you got to go e5 and then i would have  played d5 now f3 g4 is on the way maybe g maybe",
+      "start": 4298.32,
+      "duration": 6.0
+    },
+    {
+      "text": "g5 maybe we take we don't know but in general this  is like the the move f3 is something i call the",
+      "start": 4304.32,
+      "duration": 6.32
+    },
+    {
+      "text": "trampoline why not immediate g4 a good question a  g4 they can take with anything that's not a pawn",
+      "start": 4310.64,
+      "duration": 7.2
+    },
+    {
+      "text": "now g4 so now they cannot take with the  knight they will take with the pawn and",
+      "start": 4326.56,
+      "duration": 4.64
+    },
+    {
+      "text": "we will go h5 maybe maybe maybe maybe we  want them to take so we develop again but",
+      "start": 4331.2,
+      "duration": 4.48
+    },
+    {
+      "text": "uh very instructive kind of pawn aggressive pawn  attack and you'll notice like my opponent is a",
+      "start": 4336.56,
+      "duration": 5.28
+    },
+    {
+      "text": "good player my opponent's a 1300 level player  like that's very good 12 you know 1400 blitz",
+      "start": 4341.84,
+      "duration": 5.6
+    },
+    {
+      "text": "watch as they crumble like this attack works  against everybody i play like this against gm's",
+      "start": 4349.52,
+      "duration": 8.4
+    },
+    {
+      "text": "i love doing this to people who play the king's  indian um people melt in the face of this attack",
+      "start": 4358.72,
+      "duration": 6.88
+    },
+    {
+      "text": "like and not g5 g5 is a last resort but  i don't want to play g5 i would prefer",
+      "start": 4367.36,
+      "duration": 7.12
+    },
+    {
+      "text": "for us to be able to take shred it all open  and hunt down the king what is it called it",
+      "start": 4375.76,
+      "duration": 4.48
+    },
+    {
+      "text": "doesn't have a name you can call it the double  doorp attack i don't know call it the gotham",
+      "start": 4380.24,
+      "duration": 4.08
+    },
+    {
+      "text": "attack opposite side castling against king's  indian london into you know into this and um",
+      "start": 4384.32,
+      "duration": 8.16
+    },
+    {
+      "text": "it's it's easy like a nice little position and",
+      "start": 4394.96,
+      "duration": 2.88
+    },
+    {
+      "text": "do a nice little attack here",
+      "start": 4400.4,
+      "duration": 1.28
+    },
+    {
+      "text": "it's good easy stuff",
+      "start": 4405.6,
+      "duration": 1.12
+    },
+    {
+      "text": "good move i like this move a lot  opponent is trying to reinforce",
+      "start": 4408.8,
+      "duration": 3.12
+    },
+    {
+      "text": "this um i mean at some point i can overrun  with the other pawns but i think for now",
+      "start": 4411.92,
+      "duration": 5.28
+    },
+    {
+      "text": "how do we do this i also by the way let's not  forget there's another break e5 oh that could",
+      "start": 4421.28,
+      "duration": 6.0
+    },
+    {
+      "text": "be it sometimes when a when a when a castle has  one weak spot everybody floods to defend it and",
+      "start": 4427.28,
+      "duration": 6.96
+    },
+    {
+      "text": "forgets that there is another break-in point wow  that's deep that's like some art of war stuff",
+      "start": 4434.24,
+      "duration": 5.6
+    },
+    {
+      "text": "you know two two target spots and now we break  in with two breaks and uh the position is just",
+      "start": 4440.88,
+      "duration": 6.16
+    },
+    {
+      "text": "not equipped to defend oh my god what is  a philosophical damn e5 and my goodness",
+      "start": 4447.04,
+      "duration": 7.76
+    },
+    {
+      "text": "is this a sub battle uh no no no this is not a  sub battle now i'm thinking to take but i also",
+      "start": 4456.48,
+      "duration": 10.88
+    },
+    {
+      "text": "need my knight in the attack i could just transfer  my horsey get my horsey toward the king too now",
+      "start": 4467.36,
+      "duration": 4.88
+    },
+    {
+      "text": "the knight has been kicked out we  can kick the knight out again with c4",
+      "start": 4472.24,
+      "duration": 3.84
+    },
+    {
+      "text": "and then later we will kind of finish the  journey with the pieces again you'll notice",
+      "start": 4479.28,
+      "duration": 4.48
+    },
+    {
+      "text": "i'm not locking i'm not taking anything i'm  literally keeping tension because my pawns",
+      "start": 4483.76,
+      "duration": 5.6
+    },
+    {
+      "text": "are defended they have reinforcements so i don't  care you can lose your guard i've got another guy",
+      "start": 4489.36,
+      "duration": 6.4
+    },
+    {
+      "text": "ready to go i got another guy ready to go that  is the key when you attack it's to build up",
+      "start": 4495.76,
+      "duration": 6.32
+    },
+    {
+      "text": "your forces well now this i can take i  mean i can take like this as well this very",
+      "start": 4503.2,
+      "duration": 5.68
+    },
+    {
+      "text": "very defensive game by my opponent  but not a perfect defensive game",
+      "start": 4509.6,
+      "duration": 4.96
+    },
+    {
+      "text": "so for example i can go c4 which kicks  the knight out i can play knight to d6",
+      "start": 4514.56,
+      "duration": 3.36
+    },
+    {
+      "text": "ed6 looks good now attacking the knight an  attack is successful if we win material so",
+      "start": 4519.6,
+      "duration": 4.88
+    },
+    {
+      "text": "i mean i i i don't see a reason not to  just jump in here with the horse and",
+      "start": 4525.84,
+      "duration": 4.32
+    },
+    {
+      "text": "threaten to just maul everybody khabib style  queen to g5 not a bad move at all i see that",
+      "start": 4530.16,
+      "duration": 6.56
+    },
+    {
+      "text": "being suggested with queen f6 but the knight is  guarding but in general the queen you want to",
+      "start": 4536.72,
+      "duration": 5.6
+    },
+    {
+      "text": "let's put it this way you want to bring the most  powerful piece let me tell you something you",
+      "start": 4542.32,
+      "duration": 5.12
+    },
+    {
+      "text": "better be damn sure that that piece is going to do  something because if it doesn't you will lose it",
+      "start": 4547.44,
+      "duration": 5.92
+    },
+    {
+      "text": "and you don't want to queen trade we're attacking  why would we trade our queen right the queen waits",
+      "start": 4554.32,
+      "duration": 4.8
+    },
+    {
+      "text": "queen waits for while i mean a5 is just not going  to cut it i feel like the opponent just hasn't",
+      "start": 4559.12,
+      "duration": 4.64
+    },
+    {
+      "text": "you know i wanna i do wanna go here though so i  wanna i wanna get this night out definitely is",
+      "start": 4565.12,
+      "duration": 5.92
+    },
+    {
+      "text": "this on youtube um if you're asking at the time  of filming no like a day later yeah yeah yeah",
+      "start": 4571.04,
+      "duration": 8.72
+    },
+    {
+      "text": "no i mean of course my opponent listen guys i say  this all the time people don't play always up to",
+      "start": 4579.76,
+      "duration": 4.8
+    },
+    {
+      "text": "their level when they're playing for youtube  when they're playing against me it you know",
+      "start": 4584.56,
+      "duration": 3.92
+    },
+    {
+      "text": "i appreciate all volunteers for doing this and at  the same time you do have to understand the game",
+      "start": 4589.44,
+      "duration": 4.4
+    },
+    {
+      "text": "is in the hands of myself right if my opponent  was playing another 13 19 rated player there's",
+      "start": 4593.84,
+      "duration": 5.76
+    },
+    {
+      "text": "a chance they wouldn't be playing like this i'm  trying to show you how to play optimally but at",
+      "start": 4599.6,
+      "duration": 3.68
+    },
+    {
+      "text": "the same time i'm also happy to make slightly  inaccurate moves at times to give an example of",
+      "start": 4603.28,
+      "duration": 5.76
+    },
+    {
+      "text": "the right way to punish it right so but this is  very straightforward i want to put my queen on f4",
+      "start": 4609.04,
+      "duration": 4.88
+    },
+    {
+      "text": "i now have two threads i have this and i have this  and uh and plus there's also times i just straight",
+      "start": 4613.92,
+      "duration": 5.28
+    },
+    {
+      "text": "up make mistakes that's life i'm not perfect  unlike some of these 900s that i play against",
+      "start": 4619.2,
+      "duration": 7.36
+    },
+    {
+      "text": "so it happens it happens remember we do  have courses for sale you like my openings",
+      "start": 4627.84,
+      "duration": 6.56
+    },
+    {
+      "text": "you look my beginner bootcamp intermediate  study plan intermediate course will be there so",
+      "start": 4635.68,
+      "duration": 5.6
+    },
+    {
+      "text": "uh all these things are coming",
+      "start": 4644.08,
+      "duration": 1.28
+    },
+    {
+      "text": "checkmate with a pawn if i take on g7 i'm not  taking on g7 taking on f7 but yes you're saying",
+      "start": 4648.88,
+      "duration": 5.52
+    },
+    {
+      "text": "g5 is mate very brutal mate getting mated by the  pawn there f5 but f5 my friends this is a very",
+      "start": 4654.4,
+      "duration": 8.64
+    },
+    {
+      "text": "important all intermediate players will get this  beginner players don't forget about rules of chess",
+      "start": 4663.04,
+      "duration": 5.28
+    },
+    {
+      "text": "on passant don't play on passant  every time you can but in this case",
+      "start": 4669.68,
+      "duration": 7.28
+    },
+    {
+      "text": "it does win the game and peasant i  always say on passant but it's on person",
+      "start": 4676.96,
+      "duration": 6.56
+    },
+    {
+      "text": "um",
+      "start": 4689.2,
+      "duration": 2.64
+    },
+    {
+      "text": "i did some rosetta stone french  so i'm basically a genius",
+      "start": 4697.52,
+      "duration": 8.32
+    },
+    {
+      "text": "check oh opponent just decided that they had  enough i didn't even need to take the horsey",
+      "start": 4712.48,
+      "duration": 5.68
+    },
+    {
+      "text": "oh man this would have been",
+      "start": 4719.44,
+      "duration": 1.44
+    },
+    {
+      "text": "but what a game i mean the second i get  excited when i see g6 as a chess player",
+      "start": 4723.36,
+      "duration": 7.68
+    },
+    {
+      "text": "you need to be excited to see certain openings  because it means you've established a way to play",
+      "start": 4731.04,
+      "duration": 5.68
+    },
+    {
+      "text": "and a level of dominance and confidence  when this opening appears on the board",
+      "start": 4736.72,
+      "duration": 4.72
+    },
+    {
+      "text": "and in this case london players should  salivate you should salivate at the concept",
+      "start": 4742.32,
+      "duration": 6.88
+    },
+    {
+      "text": "at the concept of of of of playing one of these  openings and you know we see it go to work f3",
+      "start": 4750.48,
+      "duration": 7.04
+    },
+    {
+      "text": "g4 bam bam guys from wait a second  every move we made this game",
+      "start": 4757.52,
+      "duration": 8.64
+    },
+    {
+      "text": "we went forward wait a second did we go  forward every single move in this game",
+      "start": 4767.52,
+      "duration": 5.6
+    },
+    {
+      "text": "oh my goodness 19 moves of going  forward that was pretty cool",
+      "start": 4775.6,
+      "duration": 7.6
+    },
+    {
+      "text": "that's pretty cool that's a nice game 19 out of 19  straight forward yes except yes castling i guess",
+      "start": 4784.72,
+      "duration": 8.48
+    },
+    {
+      "text": "was uh but castling still improves the position  so that was a that was a nice game i mean that",
+      "start": 4793.2,
+      "duration": 8.48
+    },
+    {
+      "text": "was just aggression aggression aggression i mean  just going and but last game we saw that we have",
+      "start": 4801.68,
+      "duration": 4.72
+    },
+    {
+      "text": "to come back to win sometimes right we have to  come back so it's a balance of the two um now",
+      "start": 4806.4,
+      "duration": 5.6
+    },
+    {
+      "text": "this next person i'm sorry i'm very immature  but and this is obviously this person's name",
+      "start": 4812.0,
+      "duration": 8.4
+    },
+    {
+      "text": "but daniel i'm gonna call you simionovich which is  i'm pretty sure the russian way to pronounce this",
+      "start": 4820.4,
+      "duration": 4.56
+    },
+    {
+      "text": "i'm just happy to which chad  is not on the screen for this",
+      "start": 4826.8,
+      "duration": 5.04
+    },
+    {
+      "text": "uh daniel is not here daniel has signed up to  play and oh there's daniel hi daniel all right e4",
+      "start": 4835.44,
+      "duration": 6.96
+    },
+    {
+      "text": "uh let's go for a scandinavian defense with d5",
+      "start": 4842.4,
+      "duration": 3.44
+    },
+    {
+      "text": "and i'm gonna play knight f6 this is called the  portuguese gambit technically this is not the",
+      "start": 4853.6,
+      "duration": 4.24
+    },
+    {
+      "text": "portuguese gambit the portuguese gambit  requires bishop to g4 but mr suminovich",
+      "start": 4857.84,
+      "duration": 4.96
+    },
+    {
+      "text": "plays um knight to c3 and we will just  take back on d5 with the horse it is a",
+      "start": 4863.36,
+      "duration": 6.56
+    },
+    {
+      "text": "slightly different version than just playing queen  d5 because then i the the knight can hit the queen",
+      "start": 4869.92,
+      "duration": 5.12
+    },
+    {
+      "text": "this way i at least get my knight to the middle  so um knight goes to d5 and already there is an",
+      "start": 4875.04,
+      "duration": 6.56
+    },
+    {
+      "text": "imbalance of the pawns being traded that is one  that is one move to play here you can take but",
+      "start": 4881.6,
+      "duration": 5.68
+    },
+    {
+      "text": "i personally like to back up here and attack  the bishop i think that is a slightly better",
+      "start": 4887.28,
+      "duration": 6.24
+    },
+    {
+      "text": "move yo shout out to dk tizano with the tier 3 sub  thank you haven't seen you in a while hope all is",
+      "start": 4893.52,
+      "duration": 4.96
+    },
+    {
+      "text": "well got a lot of a lot of",
+      "start": 4898.48,
+      "duration": 5.2
+    },
+    {
+      "text": "no but this is just this is not a blunder  but i mean if if there is no reason to give",
+      "start": 4906.08,
+      "duration": 6.0
+    },
+    {
+      "text": "a bishop away so early don't do that no no  no we don't i don't like this at all i mean",
+      "start": 4912.08,
+      "duration": 5.04
+    },
+    {
+      "text": "now i just develop i mean i  put two upon in the center and",
+      "start": 4918.8,
+      "duration": 3.12
+    },
+    {
+      "text": "i don't know i i of course in  this case just retreat the bishop",
+      "start": 4923.44,
+      "duration": 3.36
+    },
+    {
+      "text": "if there's no good reason to trade a bishop  early don't do it i mean bishops are so useful",
+      "start": 4927.52,
+      "duration": 4.4
+    },
+    {
+      "text": "like now look i go here who on earth is going to  deal with this can i can someone please answer",
+      "start": 4933.04,
+      "duration": 6.88
+    },
+    {
+      "text": "this question who is going to deal with this  pin right now and look i can already start",
+      "start": 4939.92,
+      "duration": 6.0
+    },
+    {
+      "text": "you know jumping in and doing some damage i'm  gonna go e5 and then bishop c5 or bishop b4",
+      "start": 4945.92,
+      "duration": 6.8
+    },
+    {
+      "text": "no but black is already very happy i mean there's  no one to combat no but h3 just like i go back g4",
+      "start": 4953.52,
+      "duration": 6.8
+    },
+    {
+      "text": "i go back and i've weakened your structure just  like it's it's if there's no good reason don't do",
+      "start": 4960.32,
+      "duration": 5.68
+    },
+    {
+      "text": "it because now i just have a light square bishop  i didn't have to work at all make your opponents",
+      "start": 4966.0,
+      "duration": 5.2
+    },
+    {
+      "text": "work that's what we're trying to do we're making  them work don't make it an easy game for them",
+      "start": 4971.2,
+      "duration": 4.56
+    },
+    {
+      "text": "now by the way i honestly think i could have  already done something like this and throughout",
+      "start": 4975.76,
+      "duration": 5.2
+    },
+    {
+      "text": "this video i have been punishing in the opening  and the idea would be to just damage the structure",
+      "start": 4980.96,
+      "duration": 5.52
+    },
+    {
+      "text": "but uh i wasn't sure it was working here",
+      "start": 4988.88,
+      "duration": 2.72
+    },
+    {
+      "text": "just bishop h5 again g4 is extremely  weakening now because the king is there",
+      "start": 4992.4,
+      "duration": 4.4
+    },
+    {
+      "text": "see a lot of people also gifting random  people subs so thank you you are very kind",
+      "start": 4999.44,
+      "duration": 4.8
+    },
+    {
+      "text": "you are very much appreciated keep in mind  that at the time of recording this series uh",
+      "start": 5004.24,
+      "duration": 6.56
+    },
+    {
+      "text": "i'm also taught a steal is going on so every  day there will be recap videos out on youtube",
+      "start": 5010.8,
+      "duration": 4.4
+    },
+    {
+      "text": "why not b4 with what the bishop short-sighted move",
+      "start": 5017.68,
+      "duration": 3.2
+    },
+    {
+      "text": "which if you've made it this far  in the youtube video or the stream",
+      "start": 5022.16,
+      "duration": 2.88
+    },
+    {
+      "text": "short-sighted move is just we got to stop you know  doing yo motbot just gift to 20 subs my goodness",
+      "start": 5027.52,
+      "duration": 5.44
+    },
+    {
+      "text": "thank you we have to stop doing these one move  attacking moves that don't improve our position",
+      "start": 5033.76,
+      "duration": 5.12
+    },
+    {
+      "text": "bishop to b4 is met with knight d5 the  knight jumps to the middle hits my bishop",
+      "start": 5038.88,
+      "duration": 4.08
+    },
+    {
+      "text": "right back and now my bishop has to move so  the more you can cut back on moves that just",
+      "start": 5042.96,
+      "duration": 5.44
+    },
+    {
+      "text": "attack once and that's it the better for example  this is not a bad move it's not a bad move",
+      "start": 5048.4,
+      "duration": 6.56
+    },
+    {
+      "text": "um because it attacks the pawn and it  improves the position of the rook so",
+      "start": 5054.96,
+      "duration": 3.84
+    },
+    {
+      "text": "i have to respond to it i will move my pawn  up one square it's not a bad move at all",
+      "start": 5058.8,
+      "duration": 3.52
+    },
+    {
+      "text": "it's actually a very good move it long term  at least improves my opponent position so",
+      "start": 5062.32,
+      "duration": 4.64
+    },
+    {
+      "text": "uh you know me personally i'm i'm thinking you  know something bring my queen over there in the",
+      "start": 5068.88,
+      "duration": 4.4
+    },
+    {
+      "text": "future maybe f5 that's also not a bad move now  do i want this trade to happen number one i can",
+      "start": 5073.28,
+      "duration": 7.84
+    },
+    {
+      "text": "go back number two i could say i don't care  take and i activate my queen now my pawns are",
+      "start": 5081.12,
+      "duration": 7.6
+    },
+    {
+      "text": "active they can go up tough decision very tough  decision not clear at all both moves very possible",
+      "start": 5088.72,
+      "duration": 7.52
+    },
+    {
+      "text": "coin toss maybe f5 there was knight g5  trying to fork me but that looks kind of",
+      "start": 5096.8,
+      "duration": 4.48
+    },
+    {
+      "text": "stupid because i just stopped that and so again  short-sighted move short-sighted move personally",
+      "start": 5101.28,
+      "duration": 5.36
+    },
+    {
+      "text": "i think that f5 is the best move i think that  allowing this trade and then trying to you know",
+      "start": 5106.64,
+      "duration": 5.44
+    },
+    {
+      "text": "fight on this pin or play f4 and force the bishop  to go back this kind of keeps my position moving",
+      "start": 5112.08,
+      "duration": 5.6
+    },
+    {
+      "text": "forward rather than retreating at all but to  be honest i don't i don't know oh but that's",
+      "start": 5117.68,
+      "duration": 6.56
+    },
+    {
+      "text": "a mistake no but i mean if you go here you have  to so the the this game was strange my opponent",
+      "start": 5124.24,
+      "duration": 6.72
+    },
+    {
+      "text": "kind of like didn't make the right trades it felt  like just kind of hesitant didn't make the right",
+      "start": 5132.72,
+      "duration": 5.12
+    },
+    {
+      "text": "trades i mean if you go 94 you got to play knight  d6 you've committed to knight d6 because now you",
+      "start": 5137.84,
+      "duration": 4.56
+    },
+    {
+      "text": "get your bishop trapped so before you go back you  gotta go can my opponent attack any of my pieces",
+      "start": 5142.4,
+      "duration": 7.28
+    },
+    {
+      "text": "that like before you play knight d2 because when  you play a slow move when you play a slow move",
+      "start": 5151.76,
+      "duration": 6.32
+    },
+    {
+      "text": "like knight d2 you gotta ask yourself is there  anything my opponent can do here how can my",
+      "start": 5158.08,
+      "duration": 4.8
+    },
+    {
+      "text": "opponent throw a punch like how can they and if  you just you go oh f4 just drops i can't go there",
+      "start": 5162.88,
+      "duration": 5.68
+    },
+    {
+      "text": "i got to do something so especially when you're  1450 i am holding 1450s to a higher standard that",
+      "start": 5168.56,
+      "duration": 7.92
+    },
+    {
+      "text": "is a high rating at that rating you've got to  be looking at what your opponent wants to do so",
+      "start": 5176.48,
+      "duration": 5.6
+    },
+    {
+      "text": "that is um super important skill f4 and then  enters and now it's too late now it's just",
+      "start": 5184.24,
+      "duration": 7.36
+    },
+    {
+      "text": "too late i mean the bishop is going to be lost  then i think so too i i mean i uh marquis says",
+      "start": 5191.6,
+      "duration": 5.6
+    },
+    {
+      "text": "i think he's i absolutely think so as well and  like this this is one thing that is very true and",
+      "start": 5197.2,
+      "duration": 5.28
+    },
+    {
+      "text": "very possible people who play on stream might very  well play 20 lower than their actual rating just",
+      "start": 5202.48,
+      "duration": 6.8
+    },
+    {
+      "text": "because of you know i feel it when i play the  speeches championship for example not the open",
+      "start": 5209.28,
+      "duration": 5.84
+    },
+    {
+      "text": "event but the one with the ims and the lower rated  players i feel it but that doesn't mean that i can",
+      "start": 5215.12,
+      "duration": 5.92
+    },
+    {
+      "text": "not explain kind of what's going on so um at what  rating are you not considered beginner uh i think",
+      "start": 5223.6,
+      "duration": 5.6
+    },
+    {
+      "text": "once you cross like 26 50 i would say that is  when you are no longer considered a beginner so",
+      "start": 5229.2,
+      "duration": 8.64
+    },
+    {
+      "text": "yeah i'm joking it's probably about a thousand",
+      "start": 5243.44,
+      "duration": 3.68
+    },
+    {
+      "text": "but yeah like feed a not like  blitz or bullet like 2650 fide",
+      "start": 5247.12,
+      "duration": 5.68
+    },
+    {
+      "text": "um yes i'm drinking pee very good yes very  very good okay uh knight d4 now which was",
+      "start": 5254.88,
+      "duration": 5.68
+    },
+    {
+      "text": "my long term plan uh now my opponent should  definitely play queen c1 to get out of the pin",
+      "start": 5260.56,
+      "duration": 5.52
+    },
+    {
+      "text": "now because queenie won it's not it's a  little bit cramped and queen b1 why are",
+      "start": 5268.08,
+      "duration": 5.44
+    },
+    {
+      "text": "you going behind the rook i mean that doesn't  make sense you gotta go here queen c1 only move",
+      "start": 5273.52,
+      "duration": 6.32
+    },
+    {
+      "text": "only move",
+      "start": 5282.4,
+      "duration": 0.72
+    },
+    {
+      "text": "ah the two games in a road  chat we have to remember",
+      "start": 5288.0,
+      "duration": 3.28
+    },
+    {
+      "text": "we have to remember uh the rules of chess on  poisson don't just move the bishop back on",
+      "start": 5292.72,
+      "duration": 4.96
+    },
+    {
+      "text": "poissant which i keep saying wrong because  i've said it this way my whole life yes",
+      "start": 5297.68,
+      "duration": 5.36
+    },
+    {
+      "text": "now we have rook bam bam  we're not winning this trade",
+      "start": 5306.72,
+      "duration": 3.92
+    },
+    {
+      "text": "so we can keep it there for a second",
+      "start": 5314.56,
+      "duration": 1.6
+    },
+    {
+      "text": "oh my goodness chat members oh my  goodness we are about to pull off",
+      "start": 5319.84,
+      "duration": 3.36
+    },
+    {
+      "text": "something so nasty we are going to  play the move e4 hitting the horse",
+      "start": 5324.64,
+      "duration": 4.88
+    },
+    {
+      "text": "our opponent cannot take with the knight because  that dislodges the defense of f3 so what's going",
+      "start": 5329.52,
+      "duration": 3.84
+    },
+    {
+      "text": "to happen is we're going to go e4 take here here  here here now what happens in this position is",
+      "start": 5333.36,
+      "duration": 6.48
+    },
+    {
+      "text": "we have bishop check by moving our knight the rook  is now not defending the queen so we will go check",
+      "start": 5339.84,
+      "duration": 5.52
+    },
+    {
+      "text": "and our queen will hit the queen and  we will win the queen are you ready",
+      "start": 5345.36,
+      "duration": 4.48
+    },
+    {
+      "text": "so the knight cannot take if pawn takes we  have this this this this check we win the queen",
+      "start": 5351.6,
+      "duration": 6.96
+    },
+    {
+      "text": "you think it's gonna happen you think we're gonna  clear out the entire board or is the opponent",
+      "start": 5358.56,
+      "duration": 5.28
+    },
+    {
+      "text": "going to see that and sniff right through our plan",
+      "start": 5365.6,
+      "duration": 3.92
+    },
+    {
+      "text": "and they play g4 and well yeah well g4 we take  the horse that would have been nice though",
+      "start": 5372.16,
+      "duration": 7.04
+    },
+    {
+      "text": "i also think well see this is also nice because  now we give a check and we give a mate so at the",
+      "start": 5380.96,
+      "duration": 5.6
+    },
+    {
+      "text": "end of the day they didn't lose the queen but they  got mated sometimes when i play in these things",
+      "start": 5386.56,
+      "duration": 7.2
+    },
+    {
+      "text": "i'm like should i just not say it out loud because  i feel like if people uh if people see that",
+      "start": 5393.76,
+      "duration": 7.36
+    },
+    {
+      "text": "i'm preparing like a nice combination  they will deliberately not let me do it",
+      "start": 5402.08,
+      "duration": 4.24
+    },
+    {
+      "text": "okay now we have this this  and the king is running um",
+      "start": 5407.76,
+      "duration": 4.56
+    },
+    {
+      "text": "so the easiest thing is to just bring  the bishop so the king cannot get out",
+      "start": 5415.52,
+      "duration": 4.32
+    },
+    {
+      "text": "that's the easiest thing to do",
+      "start": 5421.44,
+      "duration": 1.12
+    },
+    {
+      "text": "and now we can go here or here bishop e1 is a  pretty move the bishop is the imposter it cannot",
+      "start": 5428.16,
+      "duration": 5.84
+    },
+    {
+      "text": "get taken because of check it prevents the king  from running away the king's only two moves are h1",
+      "start": 5434.0,
+      "duration": 4.8
+    },
+    {
+      "text": "and h2 and we have queen g to mate mate nice now",
+      "start": 5440.24,
+      "duration": 11.6
+    },
+    {
+      "text": "this game so first of all let me just  explain this how do you see this far",
+      "start": 5454.0,
+      "duration": 3.6
+    },
+    {
+      "text": "ahead all forcing moves basically in  this position the way i can predict",
+      "start": 5457.6,
+      "duration": 4.4
+    },
+    {
+      "text": "all of this happening is that everything else for  white is not good so i know that knight takes e4",
+      "start": 5462.0,
+      "duration": 4.64
+    },
+    {
+      "text": "stops guarding this so i know that de4 is going  to be played i know that that is the first step",
+      "start": 5467.6,
+      "duration": 4.8
+    },
+    {
+      "text": "to opening up the d file then i go here they take  and i take now i anticipate that they're going to",
+      "start": 5472.4,
+      "duration": 6.72
+    },
+    {
+      "text": "take if they don't take they have no other move  there because queen d5 is a check but i just slide",
+      "start": 5479.12,
+      "duration": 5.04
+    },
+    {
+      "text": "my king over so that's what i'm looking at when  i'm visualizing i'm looking at queen d5 check and",
+      "start": 5484.16,
+      "duration": 4.4
+    },
+    {
+      "text": "that's it if rook takes immediately i see this but  i don't want to do that i see that the rook is no",
+      "start": 5488.56,
+      "duration": 5.44
+    },
+    {
+      "text": "longer protecting the queen i know that the bishop  can give a check once i've moved my knight and",
+      "start": 5494.0,
+      "duration": 5.28
+    },
+    {
+      "text": "this check without the queen guarded right hits  the queen how do we do that years of experience",
+      "start": 5499.28,
+      "duration": 7.52
+    },
+    {
+      "text": "that's what we do we clear all this out and at  the end of the day we're gonna have two queens",
+      "start": 5508.48,
+      "duration": 3.2
+    },
+    {
+      "text": "that stare at each other so e4 take forcing  move at the end of the day all these moves",
+      "start": 5511.68,
+      "duration": 6.16
+    },
+    {
+      "text": "are forcing moves they create threats and  force the like i'm not in the middle of",
+      "start": 5519.36,
+      "duration": 6.24
+    },
+    {
+      "text": "this i'm not going like here rook  a7 with the deep idea of going",
+      "start": 5525.6,
+      "duration": 5.44
+    },
+    {
+      "text": "every single move i'm playing is a forcing  aggressive move i'm looking at checks and captures",
+      "start": 5536.08,
+      "duration": 6.24
+    },
+    {
+      "text": "the whole time so it's very much like a puzzle and  it's a it's a tactical sequence a tactical pattern",
+      "start": 5542.32,
+      "duration": 5.52
+    },
+    {
+      "text": "uh and uh",
+      "start": 5549.04,
+      "duration": 0.88
+    },
+    {
+      "text": "you know just because you watch a streamer  do it doesn't mean necessarily that uh it",
+      "start": 5552.24,
+      "duration": 4.88
+    },
+    {
+      "text": "will always come easy to all of us now i'm gonna  play the english i will end today's climb with c4",
+      "start": 5557.12,
+      "duration": 6.24
+    },
+    {
+      "text": "the english opening opponent  plays the dutch defense",
+      "start": 5565.92,
+      "duration": 3.2
+    },
+    {
+      "text": "cool 1990 dude cool 1990 dude indeed all  right making sure this is a real person for",
+      "start": 5570.56,
+      "duration": 6.72
+    },
+    {
+      "text": "some reason oh this person is at their highest  rapid rating ever that's kind of intimidating",
+      "start": 5577.28,
+      "duration": 4.32
+    },
+    {
+      "text": "for some reason at the end of all of my  videos i play people who are absurdly good",
+      "start": 5581.6,
+      "duration": 6.4
+    },
+    {
+      "text": "like i don't know if it's like a last viewer kind  of a thing but uh okay so d4 c4 and now they're",
+      "start": 5588.0,
+      "duration": 7.36
+    },
+    {
+      "text": "playing a dutch they look like they're going for  a leningrad but we don't know yet now remember",
+      "start": 5595.36,
+      "duration": 5.52
+    },
+    {
+      "text": "how b4 uh we played h4 h5 against the king's  indian you could play h4h5 against the dutch",
+      "start": 5600.88,
+      "duration": 6.32
+    },
+    {
+      "text": "too",
+      "start": 5607.2,
+      "duration": 8.64
+    },
+    {
+      "text": "oh wait why is this a 5 minute 5 second  game this is not a 10 minute game well",
+      "start": 5621.52,
+      "duration": 7.28
+    },
+    {
+      "text": "it's 5 second bonus which is still fine how did  that happen did i mess up my command oh oops",
+      "start": 5628.8,
+      "duration": 6.4
+    },
+    {
+      "text": "i accidentally made it a 5 minute 5  second game it's ok it'll still take long",
+      "start": 5635.2,
+      "duration": 4.32
+    },
+    {
+      "text": "i don't like that move my opponent  said i was thinking that too hey",
+      "start": 5643.36,
+      "duration": 3.52
+    },
+    {
+      "text": "stop listening to the stream doofus  my doofus guy turn off your come on",
+      "start": 5646.88,
+      "duration": 11.28
+    },
+    {
+      "text": "this is a strange move um i think i can already  start just i mean this is just a little bit",
+      "start": 5658.16,
+      "duration": 6.48
+    },
+    {
+      "text": "a little bit too much i mean w with the  dutch you have to be very careful whoa",
+      "start": 5670.08,
+      "duration": 6.24
+    },
+    {
+      "text": "wait i don't understand why can't i just take",
+      "start": 5678.96,
+      "duration": 2.4
+    },
+    {
+      "text": "what what what there's also like [ __ ] what  just take what is happening in this game",
+      "start": 5682.32,
+      "duration": 5.92
+    },
+    {
+      "text": "thank you johnsy oh johnsy just got up  to 100 gifted subs on the channel huge",
+      "start": 5691.12,
+      "duration": 3.44
+    },
+    {
+      "text": "what is going on in this game  very weird huh how did that happen",
+      "start": 5695.92,
+      "duration": 7.36
+    },
+    {
+      "text": "no we got to take a look at this this is  an opening disaster from black and it just",
+      "start": 5707.28,
+      "duration": 4.8
+    },
+    {
+      "text": "shows you how powerful these early you know h4h5  things are especially in openings like the dutch",
+      "start": 5712.08,
+      "duration": 6.32
+    },
+    {
+      "text": "so i want to take butt that opens up  the rook but then i can go bishop d3",
+      "start": 5720.24,
+      "duration": 4.0
+    },
+    {
+      "text": "oh no this is this is so bad oh no i mean you  cannot go knight f6 knight h5 knight f6 i mean",
+      "start": 5725.36,
+      "duration": 6.24
+    },
+    {
+      "text": "opponent looks like he's trying to troll  me or something you know he's just moving",
+      "start": 5732.4,
+      "duration": 2.88
+    },
+    {
+      "text": "the knight back and forth no no we we need to  review this for black we need to review this",
+      "start": 5735.28,
+      "duration": 5.36
+    },
+    {
+      "text": "for black and and by the way this should  show you if you play aggressively against",
+      "start": 5740.64,
+      "duration": 3.44
+    },
+    {
+      "text": "dutch opening up the position sacrificing it's  very very scary stuff very scary i think i mean",
+      "start": 5744.08,
+      "duration": 7.6
+    },
+    {
+      "text": "knight h5 is already i think already basically  losing black has to be super careful but uh",
+      "start": 5751.68,
+      "duration": 6.16
+    },
+    {
+      "text": "no i mean you cannot you  cannot waste time like this",
+      "start": 5760.72,
+      "duration": 3.04
+    },
+    {
+      "text": "do i play twitch subs every one of the people  that i play in these climbs these ladders that's",
+      "start": 5765.6,
+      "duration": 6.24
+    },
+    {
+      "text": "the twitch sub i'm i'm gonna try to do uh  one of these climbs where i never i don't",
+      "start": 5771.84,
+      "duration": 4.96
+    },
+    {
+      "text": "play with my ear ever it's gonna be tough very  bad habit terrible habit but it's a lot of fun",
+      "start": 5776.8,
+      "duration": 8.24
+    },
+    {
+      "text": "terrible oh no bishop takes g6 my goodness i  mean where are the pawns all the pawns are gone",
+      "start": 5791.12,
+      "duration": 6.72
+    },
+    {
+      "text": "uh not good not good not  good uh maybe even just push",
+      "start": 5800.08,
+      "duration": 4.16
+    },
+    {
+      "text": "no push there is maybe bishop g4 well bishop g4 is  happening no matter what so bishop g4 f3 bishop h5",
+      "start": 5804.24,
+      "duration": 9.84
+    },
+    {
+      "text": "the guy is drunk why did why does the opponent  have to be under the influence why can't we",
+      "start": 5817.44,
+      "duration": 6.48
+    },
+    {
+      "text": "move my queen out so that the  bishop cannot be hitting the queen",
+      "start": 5825.04,
+      "duration": 2.72
+    },
+    {
+      "text": "recently reopened my chest.com username  because you've inspired me good",
+      "start": 5831.52,
+      "duration": 2.96
+    },
+    {
+      "text": "that's what the videos are there for  that's what the youtube is there for",
+      "start": 5836.56,
+      "duration": 2.32
+    },
+    {
+      "text": "all that all that good stuff  twitch youtube yes knight c6",
+      "start": 5838.88,
+      "duration": 16.0
+    },
+    {
+      "text": "knight f3",
+      "start": 5862.24,
+      "duration": 5.6
+    },
+    {
+      "text": "developing i i attacking the knight here isn't  a great move because the knight just goes to",
+      "start": 5871.36,
+      "duration": 4.08
+    },
+    {
+      "text": "the middle let's just develop the b will be  reasonable bishop h7 that's a move that is a move",
+      "start": 5875.44,
+      "duration": 13.28
+    },
+    {
+      "text": "thank you switchbred",
+      "start": 5894.32,
+      "duration": 1.52
+    },
+    {
+      "text": "bishop to g4 i mean i want to move my knight  and like go hunt but let's just let's just be",
+      "start": 5898.48,
+      "duration": 6.64
+    },
+    {
+      "text": "principal let's finish developing in castle i  want to teach everybody a balance of both yeah",
+      "start": 5905.12,
+      "duration": 5.28
+    },
+    {
+      "text": "a balance of like opening punishment and at the  same time not getting too foamy at the mouth and",
+      "start": 5910.4,
+      "duration": 5.52
+    },
+    {
+      "text": "thanks jake thanks jake the snake jack the snake",
+      "start": 5920.16,
+      "duration": 3.68
+    },
+    {
+      "text": "why am i not playing rook b1  i don't oh you mean rook g1",
+      "start": 5927.04,
+      "duration": 2.96
+    },
+    {
+      "text": "okay so again uh well before this  wasn't a good move because knight",
+      "start": 5930.72,
+      "duration": 3.52
+    },
+    {
+      "text": "e5 but you cannot take your own pawn  at least in the current chess patch so",
+      "start": 5934.24,
+      "duration": 4.08
+    },
+    {
+      "text": "that one switchbread gifted subs and then subbed  himself beautiful stuff knight b4 is good move",
+      "start": 5942.56,
+      "duration": 4.16
+    },
+    {
+      "text": "uh queenie two oh no just kidding  bishop and queen stop that please",
+      "start": 5948.4,
+      "duration": 17.84
+    },
+    {
+      "text": "explain the prawn structure here uh  first of all white is up two pawns",
+      "start": 5966.24,
+      "duration": 4.0
+    },
+    {
+      "text": "uh second of all this pawn is just if it goes here",
+      "start": 5972.48,
+      "duration": 3.04
+    },
+    {
+      "text": "just traps the bishop i just  haven't had a chance to do it really",
+      "start": 5975.52,
+      "duration": 4.32
+    },
+    {
+      "text": "but number two this break and number three my king  is not gonna castle this way my king is definitely",
+      "start": 5982.0,
+      "duration": 5.12
+    },
+    {
+      "text": "gonna go this way so the structure you have to  find where the brakes are if they make sense and",
+      "start": 5987.12,
+      "duration": 5.76
+    },
+    {
+      "text": "there's a break but my pawns are much scarier see  don't take this is a lot scarier for black bishop",
+      "start": 5992.88,
+      "duration": 9.12
+    },
+    {
+      "text": "g5 lets me push the pawn i don't need to play  bishop g5 to push the pun i can just push the pawn",
+      "start": 6002.0,
+      "duration": 5.84
+    },
+    {
+      "text": "queen to f5 queen of five wouldn't have been  bad there's a lot of good moves the thing is",
+      "start": 6009.6,
+      "duration": 3.6
+    },
+    {
+      "text": "my friends when when you're up so much  material there's a lot of good moves",
+      "start": 6013.2,
+      "duration": 3.68
+    },
+    {
+      "text": "if i don't play a move that you're thinking  of your move could be better than mine but",
+      "start": 6016.88,
+      "duration": 4.96
+    },
+    {
+      "text": "i'm just playing moves that i think are good if  you consistently continue to make good moves i'm",
+      "start": 6022.56,
+      "duration": 3.6
+    },
+    {
+      "text": "gonna take and i'm telling you why i'm taking now  because when i cancel my rook will be open right",
+      "start": 6026.16,
+      "duration": 5.76
+    },
+    {
+      "text": "can i motivate you to watch me instead of the  boston new york match that's going to happen",
+      "start": 6034.16,
+      "duration": 3.04
+    },
+    {
+      "text": "wait what what's going on is boston playing  cool celtics knicks nick celtics ah well i mean",
+      "start": 6037.2,
+      "duration": 6.32
+    },
+    {
+      "text": "you should watch that you you should watch the  the basketball game if you're if you're a celtics",
+      "start": 6044.08,
+      "duration": 4.08
+    },
+    {
+      "text": "fan your knicks fan it's generally advisable  not to watch the knicks play basketball so",
+      "start": 6048.16,
+      "duration": 7.2
+    },
+    {
+      "text": "thank you switchbread thank you to  everybody subbing prime otherwise",
+      "start": 6058.56,
+      "duration": 2.72
+    },
+    {
+      "text": "am i a knicks fan um sadly yes i mean i'm  a i'm a nets transplant pretty soon so um",
+      "start": 6062.72,
+      "duration": 7.76
+    },
+    {
+      "text": "but yeah i mean if you're a knicks fan why  even watch basketball like well like why",
+      "start": 6070.48,
+      "duration": 7.36
+    },
+    {
+      "text": "you know you want to watch scrubs  beaten up get beaten up watch one",
+      "start": 6079.44,
+      "duration": 3.6
+    },
+    {
+      "text": "of these climbs that was mean i apologize  um let's go you guys know i'm joking check",
+      "start": 6083.04,
+      "duration": 8.8
+    },
+    {
+      "text": "i am excited very excited about ufc next week  very excited mcgregor poirier huge excitement",
+      "start": 6097.52,
+      "duration": 4.72
+    },
+    {
+      "text": "for that i think mcgregor wins it within  two rounds but uh check do another check",
+      "start": 6102.24,
+      "duration": 6.16
+    },
+    {
+      "text": "walk the king over and then if the king  goes here king walks directly into this",
+      "start": 6108.4,
+      "duration": 11.44
+    },
+    {
+      "text": "like i said queen takes e5",
+      "start": 6129.76,
+      "duration": 4.08
+    },
+    {
+      "text": "um i guess we just what do we do we can it's  an interesting move uh i guess we'll trade",
+      "start": 6144.56,
+      "duration": 5.84
+    },
+    {
+      "text": "i mean don't take the night  because it's defended that's why",
+      "start": 6153.52,
+      "duration": 3.36
+    },
+    {
+      "text": "or you mean take this knight  oh it's defended by the bishop",
+      "start": 6159.36,
+      "duration": 3.28
+    },
+    {
+      "text": "so possible but now i'm trading  everybody because i'll throw an a3",
+      "start": 6164.16,
+      "duration": 5.44
+    },
+    {
+      "text": "attack the horse make it move i'm trading  everything because we're up three puns so",
+      "start": 6169.6,
+      "duration": 6.24
+    },
+    {
+      "text": "no we trade off our attackers but this  is you know this is the part of the",
+      "start": 6178.0,
+      "duration": 2.72
+    },
+    {
+      "text": "of the night at the casino where you just uh  cash out check this is not a blunder of a horsey",
+      "start": 6181.44,
+      "duration": 6.48
+    },
+    {
+      "text": "and if the knight takes we go here you gotta  listen we gotta take our winnings and uh",
+      "start": 6188.56,
+      "duration": 3.28
+    },
+    {
+      "text": "run away take our winnings and go",
+      "start": 6194.08,
+      "duration": 2.4
+    },
+    {
+      "text": "take and we're good we're very happy very good ah",
+      "start": 6200.96,
+      "duration": 4.64
+    },
+    {
+      "text": "stretch the jaw still a couple  of games going on in uh in tada",
+      "start": 6208.96,
+      "duration": 4.16
+    },
+    {
+      "text": "classical chess is such a  takes forever my goodness take",
+      "start": 6214.24,
+      "duration": 4.56
+    },
+    {
+      "text": "take",
+      "start": 6226.08,
+      "duration": 0.24
+    },
+    {
+      "text": "and if horsey take horsey no take",
+      "start": 6230.4,
+      "duration": 3.2
+    },
+    {
+      "text": "protech he protect he attack but  most importantly he eats snack",
+      "start": 6236.72,
+      "duration": 9.12
+    },
+    {
+      "text": "h7 also was good yes h7 rook f5 h8 was also  good we have four extra pawns at this point uh",
+      "start": 6246.96,
+      "duration": 8.32
+    },
+    {
+      "text": "and uh look my friends the the truth is  if you cannot win with four extra pawns",
+      "start": 6255.28,
+      "duration": 5.12
+    },
+    {
+      "text": "you know",
+      "start": 6263.36,
+      "duration": 0.32
+    },
+    {
+      "text": "let's go here",
+      "start": 6272.32,
+      "duration": 1.52
+    },
+    {
+      "text": "now bishop a lot of moves so we can chop  chop chop chop chop and win the game",
+      "start": 6282.16,
+      "duration": 6.24
+    },
+    {
+      "text": "oh we have something very cool here rook d5  king d5 bishop g6 hitting the rook and the king",
+      "start": 6288.4,
+      "duration": 6.0
+    },
+    {
+      "text": "rookie five we can play bishop f7 check if rook  takes we promote so king will move we will take",
+      "start": 6295.04,
+      "duration": 7.04
+    },
+    {
+      "text": "take and we still can't queen because  the root covers but bishop g8 shields it",
+      "start": 6302.08,
+      "duration": 3.68
+    },
+    {
+      "text": "oh my goodness that's so nice we have an idea here  to shield the rook from covering the promotion",
+      "start": 6306.56,
+      "duration": 8.0
+    },
+    {
+      "text": "square but we also don't have to do that we also  when the rook comes up can just make a queen",
+      "start": 6314.56,
+      "duration": 7.2
+    },
+    {
+      "text": "but chess is about being fancy and not playing  the best moves obviously um and uh and now we have",
+      "start": 6322.48,
+      "duration": 9.28
+    },
+    {
+      "text": "check which we don't have to play if they take  we make a queen or check and then make a queen",
+      "start": 6331.76,
+      "duration": 6.48
+    },
+    {
+      "text": "so now the king moves and then we would go here  and the rook still can't take because we'd make a",
+      "start": 6338.24,
+      "duration": 4.64
+    },
+    {
+      "text": "queen and then when the king takes we play bishop  g8 and this is instructive bishop and pawn they",
+      "start": 6342.88,
+      "duration": 5.52
+    },
+    {
+      "text": "can create this little shield for the uh for the  pawn to go it's very nice and if the rook was on",
+      "start": 6348.4,
+      "duration": 5.44
+    },
+    {
+      "text": "the other side this would just be jail this would  be the cage but oh that is so nice what a nice way",
+      "start": 6353.84,
+      "duration": 4.64
+    },
+    {
+      "text": "to end it bishop and h7 pawn shield the rook from  promoting uh from covering the promotion square oh",
+      "start": 6358.48,
+      "duration": 7.84
+    },
+    {
+      "text": "oof they can give a check we hide  the king and we win nice beautiful",
+      "start": 6367.84,
+      "duration": 6.96
+    },
+    {
+      "text": "beautiful i see nine year olds in the chat uh  asking for sub gifts that's pretty good all",
+      "start": 6376.32,
+      "duration": 7.76
+    },
+    {
+      "text": "right we make a bishop king cannot get closer of  course we make a queen in normal circumstances but",
+      "start": 6384.08,
+      "duration": 5.2
+    },
+    {
+      "text": "and we go and we go king goes  king goes go go go go go why",
+      "start": 6391.28,
+      "duration": 5.2
+    },
+    {
+      "text": "bishop i don't know should i  show you all how to mate with uh",
+      "start": 6396.48,
+      "duration": 6.88
+    },
+    {
+      "text": "like some sort of like",
+      "start": 6406.48,
+      "duration": 0.96
+    },
+    {
+      "text": "v5 two bishops two bishops  is a lot easier to learn",
+      "start": 6411.68,
+      "duration": 5.28
+    },
+    {
+      "text": "all right that's what we'll  do we'll do two bishops",
+      "start": 6418.4,
+      "duration": 1.6
+    },
+    {
+      "text": "two bishops i almost promoted to uh",
+      "start": 6422.08,
+      "duration": 3.28
+    },
+    {
+      "text": "to uh two light-squared bishops  which would have just been a draw",
+      "start": 6425.36,
+      "duration": 2.48
+    },
+    {
+      "text": "you you guys want bishop at  night i'll do bishop at night",
+      "start": 6431.28,
+      "duration": 3.04
+    },
+    {
+      "text": "okay fine my my only pro my only issue  with teaching bishop and nightmate is that",
+      "start": 6436.96,
+      "duration": 7.04
+    },
+    {
+      "text": "um it's uh it's very hard to actually learn and  master but we'll do it so first things first",
+      "start": 6444.0,
+      "duration": 7.44
+    },
+    {
+      "text": "you can only mate on the same color corner  as what your bishop is and what you do in the",
+      "start": 6451.44,
+      "duration": 5.44
+    },
+    {
+      "text": "early stages you just you hunt the king down you  for you try to force the king back any way that",
+      "start": 6456.88,
+      "duration": 4.96
+    },
+    {
+      "text": "you can you do that with you know your king  for example and you have to bring the knight",
+      "start": 6461.84,
+      "duration": 4.8
+    },
+    {
+      "text": "in some way now in this case we've already  accomplished it here here that's covered",
+      "start": 6467.52,
+      "duration": 8.0
+    },
+    {
+      "text": "uh yeah okay king f6 opponent just  went directly to the back rank",
+      "start": 6475.52,
+      "duration": 4.8
+    },
+    {
+      "text": "so we would go i mean we can just follow actually  bishop here and night and the king is stuck",
+      "start": 6481.6,
+      "duration": 7.76
+    },
+    {
+      "text": "so we just stopped the king from escaping  oh okay you want to do it like this",
+      "start": 6491.6,
+      "duration": 6.72
+    },
+    {
+      "text": "got it so bishop d7 king g8 there's  a magic square for our horsey",
+      "start": 6499.76,
+      "duration": 4.96
+    },
+    {
+      "text": "is the way is the way i would describe this  so the magic square is the horse he goes here",
+      "start": 6505.36,
+      "duration": 4.48
+    },
+    {
+      "text": "and this is what happens when the king goes to  the wrong corner you have to put the knight on f7",
+      "start": 6509.84,
+      "duration": 4.72
+    },
+    {
+      "text": "and then king g8 and then you extract the  king don't go hear that stalemate you will",
+      "start": 6514.56,
+      "duration": 4.88
+    },
+    {
+      "text": "never mate the king on f8 okay ever  don't even try i'm thinking we go here",
+      "start": 6519.44,
+      "duration": 6.4
+    },
+    {
+      "text": "uh and then we can walk the king but for now let's  just play knight c6 let's bring the horsey back",
+      "start": 6527.68,
+      "duration": 4.24
+    },
+    {
+      "text": "it's very complicated and also teaching it on  the fly with two minutes uh very dangerous for",
+      "start": 6531.92,
+      "duration": 5.68
+    },
+    {
+      "text": "a streamer because it can be very embarrassing  if i actually fail to do it i'm under a lot of",
+      "start": 6537.6,
+      "duration": 4.72
+    },
+    {
+      "text": "pressure here would you take the draw don't  just take the draw what are you nuts now king",
+      "start": 6542.32,
+      "duration": 4.64
+    },
+    {
+      "text": "f8 bishop g6 okay this is easy now very easy  let me show you watch this watch this so bishop",
+      "start": 6546.96,
+      "duration": 7.04
+    },
+    {
+      "text": "g6 so the king is in a box now these are the only  squares the king can move on okay and what you do",
+      "start": 6554.0,
+      "duration": 7.2
+    },
+    {
+      "text": "is you've got to force the king to the corner  you gotta force the king to go this way uh and",
+      "start": 6562.8,
+      "duration": 6.8
+    },
+    {
+      "text": "extract it out of the corner in the right way so  for example knight to e5 king goes to the corner",
+      "start": 6569.6,
+      "duration": 5.2
+    },
+    {
+      "text": "we give a check and if the king went to f8 we  would just have to repeat this process we give a",
+      "start": 6578.0,
+      "duration": 5.44
+    },
+    {
+      "text": "check you're not going to make the king it should  be yes everybody's like oh it's the wrong corner",
+      "start": 6583.44,
+      "duration": 5.52
+    },
+    {
+      "text": "now is the process for getting  the king out king cannot go back",
+      "start": 6590.16,
+      "duration": 3.44
+    },
+    {
+      "text": "we waste a move force the king to  come here now we take this away",
+      "start": 6593.6,
+      "duration": 5.28
+    },
+    {
+      "text": "now we take it away don't let the king  get out don't let the king get out okay",
+      "start": 6600.88,
+      "duration": 8.96
+    },
+    {
+      "text": "king goes this way king's trying to run so what  do we do there's the technique known as the w",
+      "start": 6611.44,
+      "duration": 4.16
+    },
+    {
+      "text": "technique because it's a w or a m  um if you want it an m knight e5",
+      "start": 6615.6,
+      "duration": 6.4
+    },
+    {
+      "text": "very good my resident backseater evon cell  95 who only watches my stream to backseat",
+      "start": 6623.12,
+      "duration": 6.48
+    },
+    {
+      "text": "me is saying i had a very fast way but this is  the most instructive way which is why i am the",
+      "start": 6629.6,
+      "duration": 5.6
+    },
+    {
+      "text": "content creator and you are my resident backseater  king to e6 so now we bring the king and the walk",
+      "start": 6635.2,
+      "duration": 6.32
+    },
+    {
+      "text": "continues the king is trying to get out so what  do we do king to d6 if check trying to escape",
+      "start": 6641.52,
+      "duration": 6.16
+    },
+    {
+      "text": "we have a check sorry if check trying to escape  if king moves trying to escape we give a check",
+      "start": 6647.68,
+      "duration": 6.08
+    },
+    {
+      "text": "okay now king goes this way we can continue  our w technique here or we can play a move",
+      "start": 6656.16,
+      "duration": 6.88
+    },
+    {
+      "text": "that for example like bishop f7 where the king  will have to go even further to the corner so",
+      "start": 6663.04,
+      "duration": 5.04
+    },
+    {
+      "text": "for instance knight knight c5 and here it's not  like the easiest thing ever so i would say waste",
+      "start": 6668.08,
+      "duration": 6.24
+    },
+    {
+      "text": "the move force the king to go one score further  okay now knight c5 doesn't let the king get out",
+      "start": 6674.32,
+      "duration": 6.32
+    },
+    {
+      "text": "all right now the same exact technique give  a check you see the diamond el diamante",
+      "start": 6683.28,
+      "duration": 4.56
+    },
+    {
+      "text": "el diamante king c6 here here and that's it  ladies and gentlemen we have gotten the king",
+      "start": 6692.16,
+      "duration": 7.12
+    },
+    {
+      "text": "extracted from the wrong  corner to the right corner",
+      "start": 6699.28,
+      "duration": 2.64
+    },
+    {
+      "text": "we give a check and now we need to set it  up this is the king's only legal move here",
+      "start": 6705.44,
+      "duration": 6.88
+    },
+    {
+      "text": "here check here the king runs so what do  we do we bring the knight back and we want",
+      "start": 6712.32,
+      "duration": 6.0
+    },
+    {
+      "text": "the exact same position we have now when the  king goes here so we want this to happen again",
+      "start": 6718.32,
+      "duration": 5.12
+    },
+    {
+      "text": "so opponent only can go here",
+      "start": 6726.0,
+      "duration": 1.44
+    },
+    {
+      "text": "waiting move no way you'll remember it i  know too much now we want it to be their",
+      "start": 6731.04,
+      "duration": 5.44
+    },
+    {
+      "text": "move so we can go check back to the corner and  mate so we waste the move we waste the move",
+      "start": 6736.48,
+      "duration": 6.4
+    },
+    {
+      "text": "and uh that's it they go back to b8",
+      "start": 6745.84,
+      "duration": 4.0
+    },
+    {
+      "text": "check",
+      "start": 6752.72,
+      "duration": 0.24
+    },
+    {
+      "text": "mate and that is how you checkmate  with king bishop at night",
+      "start": 6757.76,
+      "duration": 4.0
+    },
+    {
+      "text": "opponent had something ready to type to me they  said thanks for the opportunity they like copy",
+      "start": 6763.44,
+      "duration": 3.68
+    },
+    {
+      "text": "pasted it i usually play caro khan and slav in  black and they look the same uh so hopefully uh",
+      "start": 6767.12,
+      "duration": 5.84
+    },
+    {
+      "text": "you know well this person said they usually  play the slav defense but why didn't they",
+      "start": 6772.96,
+      "duration": 3.36
+    },
+    {
+      "text": "if they play slav defense just go c6 d5 karo khan  and slav is good but no but this person played the",
+      "start": 6776.32,
+      "duration": 7.28
+    },
+    {
+      "text": "dutch and this was just a little bit too no no no  no no no no no no no no no no h4 is a dangerous",
+      "start": 6783.6,
+      "duration": 9.68
+    },
+    {
+      "text": "line actually in many lines black has to go for  this complete insanity with the broken structure",
+      "start": 6793.28,
+      "duration": 5.84
+    },
+    {
+      "text": "uh e4 and then queen h5 so um no no the  thing is so my my opponent is saying",
+      "start": 6799.92,
+      "duration": 6.64
+    },
+    {
+      "text": "they didn't know that the slav defense can be  played against c4 i mean just think about it",
+      "start": 6806.56,
+      "duration": 4.32
+    },
+    {
+      "text": "just think about it right like slav defense it's  it's it looks the same so technically c4 c6 can",
+      "start": 6813.12,
+      "duration": 8.64
+    },
+    {
+      "text": "turn into the karo khan and can turn into the slav  so c4 c6 is how you would try to play you know the",
+      "start": 6821.76,
+      "duration": 9.84
+    },
+    {
+      "text": "slav defense i hope this was helpful hope this  was helpful and that was a nice little end game",
+      "start": 6831.6,
+      "duration": 7.12
+    }
+  ]
+}
