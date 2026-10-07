@@ -10,125 +10,183 @@
 <body>
 
   <!-- Top Navigation Header -->
-  <header>
-    <div class="brand">
-      <span class="logo-icon">♟</span>
-      <div>
-        <h1>Win At Chess <span class="badge">33 Episodes • 175 Games</span></h1>
+  <header class="app-header">
+    <div class="brand-section">
+      <div class="brand-logo-icon">♟</div>
+      <div class="brand-titles">
+        <h1>Win At Chess <span class="brand-badge">33 Episodes • 175 Games</span></h1>
       </div>
     </div>
 
-    <div class="header-controls">
-      <!-- Episode Selector -->
-      <div class="episode-picker-wrap">
-        <button id="prevEpBtn" class="btn-icon" title="Previous Episode">◀</button>
-        <select id="episodeSelect" class="episode-select"></select>
-        <button id="nextEpBtn" class="btn-icon" title="Next Episode">▶</button>
-      </div>
+    <!-- Navigation View Modes -->
+    <div class="header-nav-modes">
+      <button id="navOpeningsBtn" class="nav-tab-btn active">
+        <span>♟️</span> Group by Opening
+      </button>
+      <button id="navEpisodesBtn" class="nav-tab-btn">
+        <span>📺</span> Group by Episode
+      </button>
+      <button id="navPlayerBtn" class="nav-tab-btn">
+        <span>🎮</span> Game Player
+      </button>
+    </div>
 
-      <!-- Language Toggle -->
-      <div class="lang-toggle">
+    <!-- Right Controls: Language Switcher -->
+    <div class="header-right-tools">
+      <div class="lang-switch">
         <button id="langSiBtn" class="lang-btn active">සිංහල (ගුරු-සිසු)</button>
         <button id="langEnBtn" class="lang-btn">English (Original)</button>
       </div>
     </div>
   </header>
 
-  <!-- Main Workspace -->
-  <main class="app-container">
+  <!-- =====================================================================
+       VIEW 1: Chess Openings Home View (Grouped by Opening Family)
+       ===================================================================== -->
+  <section id="openingsView">
+    <div class="openings-header-banner">
+      <div>
+        <h2><span>♟️</span> Chess Openings Collection</h2>
+        <p>Explore all 175 games played across the series, organized into 15 classical and modern opening families.</p>
+      </div>
+      <div>
+        <input type="text" id="openingSearchInput" class="search-input-sharp" placeholder="Search openings or players...">
+      </div>
+    </div>
 
-    <!-- Left Column: Interactive Chess Board & Notation -->
-    <section class="board-column">
+    <!-- Openings Grid -->
+    <div id="openingsGrid" class="openings-grid"></div>
+
+    <!-- Games Drawer for Selected Opening -->
+    <div id="openingGamesDrawer" class="opening-games-section" style="display:none;">
+      <h3 id="selectedOpeningTitle">Games</h3>
+      <table class="games-table-sharp">
+        <thead>
+          <tr>
+            <th>Episode</th>
+            <th>Matchup</th>
+            <th>ECO</th>
+            <th>Opening Variation</th>
+            <th>Result</th>
+            <th>Video Time</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody id="openingGamesTableBody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- =====================================================================
+       VIEW 2: Interactive Game Player Workspace
+       ===================================================================== -->
+  <section id="playerView" style="display:none;">
+
+    <!-- Left Column: Chess Board & Controls -->
+    <div class="board-column">
       <!-- Black Player Card -->
-      <div class="player-card" id="blackPlayerCard">
-        <div class="player-info">
-          <div class="player-piece-icon">♚</div>
+      <div class="player-card-sharp">
+        <div class="player-info-sharp">
+          <div class="player-avatar-box">♚</div>
           <div>
-            <span id="blackName" class="player-name">GothamChess</span>
-            <span id="blackElo" class="player-rating">(2418)</span>
+            <span id="blackName" class="player-name-text">GothamChess</span>
+            <span id="blackElo" class="player-rating-badge">(2418)</span>
           </div>
         </div>
-        <div id="blackCaptured" class="captured-pieces"></div>
+        <div id="blackCaptured" class="captured-pieces-row"></div>
       </div>
 
-      <!-- Chessboard Grid -->
-      <div class="board-container">
-        <div id="boardGrid" class="board-grid"></div>
+      <!-- Chessboard Wrapper -->
+      <div class="board-wrapper">
+        <div id="boardGrid" class="board-grid-sharp"></div>
       </div>
 
       <!-- White Player Card -->
-      <div class="player-card" id="whitePlayerCard">
-        <div class="player-info">
-          <div class="player-piece-icon">♔</div>
+      <div class="player-card-sharp">
+        <div class="player-info-sharp">
+          <div class="player-avatar-box">♔</div>
           <div>
-            <span id="whiteName" class="player-name">Opponent</span>
-            <span id="whiteElo" class="player-rating">(1059)</span>
+            <span id="whiteName" class="player-name-text">Opponent</span>
+            <span id="whiteElo" class="player-rating-badge">(1059)</span>
           </div>
         </div>
-        <div id="whiteCaptured" class="captured-pieces"></div>
+        <div id="whiteCaptured" class="captured-pieces-row"></div>
       </div>
 
-      <!-- Board Navigation Controls -->
-      <div class="controls-card">
-        <div class="playback-btns">
-          <button id="firstMoveBtn" class="ctrl-btn" title="Start Position">|◀</button>
-          <button id="prevMoveBtn" class="ctrl-btn" title="Previous Move">◀</button>
-          <button id="playPauseBtn" class="ctrl-btn" title="Play / Pause">▶ Play</button>
-          <button id="nextMoveBtn" class="ctrl-btn" title="Next Move">▶</button>
-          <button id="lastMoveBtn" class="ctrl-btn" title="Final Position">▶|</button>
-          <button id="flipBoardBtn" class="ctrl-btn" title="Flip Board Perspective">🔄 Flip</button>
+      <!-- Controls Bar -->
+      <div class="controls-bar-sharp">
+        <div class="playback-btn-group">
+          <button id="firstMoveBtn" class="ctrl-btn-sharp" title="First Move">|◀</button>
+          <button id="prevMoveBtn" class="ctrl-btn-sharp" title="Previous Move">◀</button>
+          <button id="playPauseBtn" class="ctrl-btn-sharp" title="Play / Pause">▶ Play</button>
+          <button id="nextMoveBtn" class="ctrl-btn-sharp" title="Next Move">▶</button>
+          <button id="lastMoveBtn" class="ctrl-btn-sharp" title="Final Move">▶|</button>
+          <button id="flipBoardBtn" class="ctrl-btn-sharp" title="Flip Board">🔄 Flip</button>
         </div>
 
-        <div>
-          <select id="speedSelect" class="speed-select" title="Playback Speed">
-            <option value="500">0.5s (Fast)</option>
-            <option value="1000" selected>1.0s (Normal)</option>
-            <option value="1500">1.5s (Slow)</option>
-            <option value="2000">2.0s (Study)</option>
-          </select>
-        </div>
+        <select id="speedSelect" class="speed-select-sharp" title="Autoplay Speed">
+          <option value="500">0.5s (Fast)</option>
+          <option value="1000" selected>1.0s (Normal)</option>
+          <option value="1500">1.5s (Slow)</option>
+          <option value="2000">2.0s (Study)</option>
+        </select>
       </div>
 
       <!-- Move Notation Table -->
-      <div class="moves-box">
-        <table class="moves-table">
+      <div class="moves-container-sharp">
+        <table class="moves-table-sharp">
           <tbody id="movesTableBody"></tbody>
         </table>
       </div>
-    </section>
+    </div>
 
-    <!-- Right Column: Games Selector & Commentary/Transcript -->
-    <section class="content-column">
-      <!-- Game Tabs for Current Episode -->
-      <nav id="gamesNav" class="games-nav"></nav>
+    <!-- Right Column: Episode Navigator & Commentary -->
+    <div class="content-column-sharp">
 
-      <!-- Active Game Banner -->
-      <div class="game-info-banner">
-        <div class="game-meta-titles">
-          <h2 id="gameTitle">Game 1: Vienna Gambit</h2>
-          <p id="gameMeta">Matchup & Video Details</p>
+      <!-- Episode Switcher Banner -->
+      <div class="episode-selector-banner">
+        <div class="ep-nav-controls">
+          <button id="prevEpBtn" class="ctrl-btn-sharp" title="Previous Episode">◀</button>
+          <select id="episodeSelect" class="ep-dropdown"></select>
+          <button id="nextEpBtn" class="ctrl-btn-sharp" title="Next Episode">▶</button>
         </div>
-        <a id="ytWatchBtn" href="#" target="_blank" class="yt-watch-btn">
+        <button id="backToOpeningsBtn" class="ctrl-btn-sharp" style="color:var(--chesscom-green-hover);">
+          ♟️ Browse Openings
+        </button>
+      </div>
+
+      <!-- Game Tabs for Current Episode -->
+      <div id="gamesNav" class="games-tabs-bar"></div>
+
+      <!-- Active Game Headline -->
+      <div class="game-headline-card">
+        <div class="game-headline-titles">
+          <h2 id="gameTitle">Game 1: Vienna Gambit</h2>
+          <p id="gameMeta">Matchup details and video timing</p>
+        </div>
+        <a id="ytWatchBtn" href="#" target="_blank" class="yt-watch-btn-sharp">
           ▶ Watch on YouTube
         </a>
       </div>
 
-      <!-- Transcript & Commentary Container -->
-      <div class="transcript-card">
-        <div class="transcript-header">
-          <h3 id="transcriptTitle">🎙️ විවරණය සහ කථිකා සටහන (Commentary & Transcript)</h3>
-          <input type="text" id="transcriptSearch" class="transcript-search" placeholder="Search transcript...">
+      <!-- Transcript & Commentary Panel -->
+      <div class="transcript-panel-sharp">
+        <div class="transcript-panel-header">
+          <h3>🎙️ විවරණය සහ කථිකා සටහන (Commentary & Transcript)</h3>
+          <input type="text" id="transcriptSearch" class="search-input-sharp" placeholder="Search transcript..." style="width:200px;">
         </div>
-        <div id="transcriptBody" class="transcript-body">
+        <div id="transcriptBody" class="transcript-panel-body">
           <p>Loading commentary...</p>
         </div>
       </div>
-    </section>
 
-  </main>
+    </div>
 
-  <footer>
-    <p>Win At Chess Interactive Study App • Created from GothamChess YouTube Playlist • 100% Verified PGNs & Casual Sinhala Commentary</p>
+  </section>
+
+  <!-- Footer -->
+  <footer class="app-footer">
+    <p>Win At Chess Interactive Study App • Sharp Chess.com Theme • 100% Verified PGNs & Casual Sinhala Commentary</p>
   </footer>
 
   <!-- Load Data and Application Logic -->
